@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 *.pkl
 **/*.pkl
+trained_models/trained_*.*
+trained_models/trained_*
+log_files/*.log
