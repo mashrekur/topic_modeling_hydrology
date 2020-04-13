@@ -3,7 +3,7 @@
 #SBATCH --job-name=lda_run              # Job name
 #SBATCH --ntasks=40                    # Run on multiple CPUs
 #SBATCH --time=72:00:00               # Time limit hrs:min:sec
-#SBATCH --output=lda_run.log          # Standard output and error log
+#SBATCH --output=log_files/lda_run_slurm.log          # Standard output and error log
 #SBATCH --exclude=gpu01               #Exclude the GPU
 
 
