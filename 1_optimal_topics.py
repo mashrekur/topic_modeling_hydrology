@@ -4,6 +4,7 @@ import numpy as np
 import gensim
 import matplotlib.pyplot as plt
 from gensim.models.ldamulticore import LdaMulticore
+from gensim.models import CoherenceModel
 
 # Switch for running new experiemnts vs. loading old ones
 NEW_EXPERIMENTS = True
