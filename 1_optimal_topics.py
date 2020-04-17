@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[18]:
-
-
 import pickle as pkl
 import logging
 import numpy as np
@@ -11,34 +5,19 @@ import gensim
 import matplotlib.pyplot as plt
 from gensim.models.ldamulticore import LdaMulticore
 
-# In[ ]:
-
-
 # Switch for running new experiemnts vs. loading old ones
 NEW_EXPERIMENTS = True
 
-
-# In[6]:
-
-
 # load cleaned corpus
-with open('data/cleaned_corpus.pkl', 'rb') as f:
+with open('data/cleaned_corpus_updated.pkl', 'rb') as f:
     corpus = pkl.load(f)
-with open("data/id2word.pkl", 'rb') as f:
+with open("data/id2word_updated.pkl", 'rb') as f:
     id2word= pkl.load(f)
 
-
-# In[7]:
-
-
 #parameters of topic size search
-max_topics = 50
+max_topics = 60
 min_topics = 2
 step_size = 1
-
-
-# In[11]:
-
 
 # init storage
 list_topics = []
@@ -46,10 +25,6 @@ list_coherence = []
 list_perplexity = []
 perplexity = np.full(max_topics, np.nan)
 coherence = np.full(max_topics, np.nan)
-
-
-# In[ ]:
-
 
 # loop through topic sizes
 
@@ -90,18 +65,10 @@ if NEW_EXPERIMENTS:
         list_topics.append(topics)
         list_coherence.append(coherence[topics])
 
-
-# In[25]:
-
-
 # Load perplexity and coherence scores for plotting
 perplexity = np.load(f"data/perplexity_{max_topics-1}.npy")
 coherence = np.load(f"data/coherence_{max_topics-1}.npy")
 topics = list(range(min_topics, max_topics, step_size))
-
-
-# In[39]:
-
 
 # Plot coherence and perplexity scores
 
@@ -135,5 +102,5 @@ ax.legend(pltp+pltc, ['Perplexity', 'Coherence'], fontsize=14)
 ax.grid()
 
 # Save figure
-plt.savefig('figures/perplexity_coherence.png')
+plt.savefig('figures/perplexity_coherence_updated.png')
 
