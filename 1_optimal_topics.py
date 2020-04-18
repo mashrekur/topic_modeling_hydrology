@@ -10,6 +10,8 @@ from gensim.models import CoherenceModel
 NEW_EXPERIMENTS = True
 
 # load cleaned corpus
+with open('data/data_lemmatized_updated.pkl', 'rb') as f:
+    data_lemmatized = pkl.load(f)
 with open('data/cleaned_corpus_updated.pkl', 'rb') as f:
     corpus = pkl.load(f)
 with open("data/id2word_updated.pkl", 'rb') as f:
@@ -43,8 +45,8 @@ if NEW_EXPERIMENTS:
                                                id2word=id2word,
                                                num_topics=topics, 
                                                random_state=100,
-                                               chunksize=200,
-                                               passes=2000,
+                                               chunksize=2000,
+                                               passes=1000,
     #                                            iterations=5000,
     #                                            minimum_probability=0,
                                                per_word_topics=True)

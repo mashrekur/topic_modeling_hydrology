@@ -12,13 +12,13 @@ logging.basicConfig(filename='log_files/gensim_prespecified_topics.log',
                     level=logging.INFO)
 
 # load cleaned corpus
-with open('data/cleaned_corpus.pkl', 'rb') as f:
+with open('data/cleaned_corpus_updated.pkl', 'rb') as f:
     corpus = pkl.load(f)
-with open("data/id2word.pkl", 'rb') as f:
+with open("data/id2word_updated.pkl", 'rb') as f:
     id2word= pkl.load(f)
 
 # Choose the number of topics
-nTopics = 17
+nTopics = 25
 
 # Train the LDA model with a prespecified number of topics
 lda_model =                   LdaMulticore(corpus=corpus,
