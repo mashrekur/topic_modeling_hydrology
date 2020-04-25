@@ -11,9 +11,13 @@
 
 --- Run the Training Procedure -------
 
-0_data_preprocessing --- Cleans and prepares the corpus. This produces four output files in the <data> directory: (i) raw_corpus.pkl is the pandas dataframe containing the whole abstract corpus, (ii) data_lemmatized.pkl is the lemmatized data, (iii) cleaned_corpus.pkl is ..., and (iv) 
+0_data_preprocessing.ipynb --- Cleans and prepares the corpus. This produces four output files in the <data> directory: 
+(i) raw_corpus.pkl is the pandas dataframe containing the whole abstract corpus 
+(ii) data_lemmatized.pkl is the lemmatized data 
+(iii) id2word.pkl is the word <-> id mapping
+(iv) cleaned_corpus.pkl is the term document frequency matrix
 
-1_optimal_topics
+1_optimal_topics.py --- Runs a loop to train an LDA model over variable number of topics to find the best number of topics to use for this corpus. Can be run using the slurm script ` 
 
 2_run_LDA 
 
