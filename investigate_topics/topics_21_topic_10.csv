@@ -1,184 +1,191 @@
 ,Title
-45562,"RATE-LIMITED SORPTION AND NONEQUILIBRIUM TRANSPORT OF ORGANIC-CHEMICALS
+45562,Validation of the operational MSG-SEVIRI snow cover product over Austria
+15077,Accuracy assessment of the MODIS snow products
+10591,"Long-term remote sensing database, Walnut Gulch Experimental Watershed,
 "
-15077,Is ecohydrology one idea or many? Discussion
-10591,"Characterization of sub-daily thermal regime in alpine rivers:
+23997,"NASA Cold Land Processes Experiment (CLPX 2002/03): Airborne Remote
 "
-23997,"Processes that control water chemistry and stable isotopic composition
+18644,Evaluation of the snow-covered area data product from MODIS
+8217,"Embedded-sensor network design for snow cover measurements around snow
 "
-18644,"Direct measurements of floodwater infiltration into shallow alluvial
+14259,"Comparison of Snow Data Assimilation System with GPS reflectometry snow
 "
-8217,Water percolation process studies in a Mediterranean karst area
-14259,"A nonlinear time series analysis using two-stage genetic algorithms for
+17680,"Satellite-derived digital elevation model accuracy:
 "
-17680,"A field study of hydraulic, geochemical and stable isotope relationships
+27890,"Toward advanced daily cloud-free snow cover and snow water equivalent
 "
-27890,"Megacities and rivers: Scalar mismatches between urban water management
+4287,"Cloud Masking for Landsat 8 and MODIS Terra Over Snow-Covered Terrain:
 "
-4287,"Hyper-resolution ensemble-based snow reanalysis in mountain regions
+24472,"Evaluating Seasonal Orographic Precipitation in the Interior Western
 "
-24472,"Residue cover effects on soil erosion and the infiltration in black soil
+15696,"Snow measurement by GPS interferometric reflectometry: an evaluation at
 "
-15696,"Relationship between precipitation phase and air temperature: comparison
+5118,"Insights into mountain precipitation and snowpack from a basin-scale
 "
-5118,"A past discharge assimilation system for ensemble streamflow forecasts
+16578,"Comparison and validation of MODIS standard and new combination of Terra
 "
-16578,"Climate change and runoff response based on isotope analysis in an arid
+18342,"Estimation of snow depth over open prairie environments using GOES
 "
-18342,"Soil hydraulic properties near saturation, an improved conductivity
+23606,"Assessing Satellite-Based Rainfall Estimates in Semiarid Watersheds
 "
-23606,Hydrologic applications of weather radar
-18666,"The influence of drought and anthropogenic effects on groundwater levels
+18666,"An assessment of the differences between three satellite snow cover
 "
-18343,"Simulation of intense salinization phenomena in coastal aquifers - the
+18343,"Validation of VEGETATION, MODIS, and GOES plus SSM/I snow-cover products
 "
-24329,"A climate informed model for nonstationary flood risk prediction:
+24329,"Evaluation of Remotely Sensed Snow Water Equivalent and Snow Cover
 "
-3333,Advances in heat transfer in porous media
-20213,"Establishing environmental flow regimes in a Mediterranean watershed
+3333,"Comparative rainfall observations from pit and aboveground rain gauges
 "
-8575,"MHYDAS-Erosion: a distributed single-storm water erosion model for
+20213,Spaceborne remote sensing for snow hydrology applications
+8575,"Snow water equivalent in the Sierra Nevada: Blending snow sensor
 "
-24340,"Water balance of a lake with floodplain buffering: Lake Tana, Blue Nile
+24340,"Validation of the GPM Version-5 Surface Rainfall Products over Great
 "
-43691,"NONEQUILIBRIUM MASS-TRANSFER BETWEEN THE VAPOR, AQUEOUS, AND
+43691,"Topographic control of snow distribution in an alpine watershed of
 "
-24813,"Analytical solutions of three-dimensional groundwater flow to a well in
+24813,"Quantitative Precipitation Estimation from a C-Band Dual-Polarized Radar
 "
-16032,"A variable-length block bootstrap method for multi-site synthetic
+16032,"A comparison of simulated and measured lake ice thickness using a
 "
-13569,Hydrological processes and streamflow in a lake dominated watercourse
-5419,"Comparison of data-driven methods for downscaling ensemble weather
+13569,"Combining MODIS and AMSR-E observations to improve MCD43A3 short-time
 "
-21760,Bias correction of high resolution regional climate model data
-13306,"Overexploitation and continuous drought effects on groundwater yield and
+5419,"Fractional snow cover in the Colorado and Rio Grande basins, 1995-2002"
+21760,"Evaluating the utility of the EUMETSAT HSAF snow recognition product
 "
-4154,"Topography significantly influencing low flows in snow-dominated
+13306,"An intercomparison of remotely sensed soil moisture products at various
 "
-4342,"Precipitation transition regions over the southern Canadian Cordillera
+4154,"Quantifying Uncertainties in Snow Depth Mapping From Structure From
 "
-23433,"Relative rates of solute and pressure propagation into heterogeneous
+4342,"Improving Snow Water Equivalent Maps With Machine Learning of Snow
 "
-18310,"Selecting a calculation method to estimate sediment and nutrient loads
+23433,"Quantitative Assessment of Operational Weather Radar Rainfall Estimates
 "
-24061,"Vertical distribution and temporal stability of soil water in 21-m
+18310,"Estimating the distribution of snow water equivalent and snow extent
 "
-44141,NON-FICKIAN IONIC-DIFFUSION ACROSS HIGH-CONCENTRATION GRADIENTS
-42614,"Downscaling-Based Segmentation for Unresolved Images of Highly
+24061,"An assessment of the biases of satellite rainfall estimates over the
 "
-7461,"Cascade-based disaggregation of continuous rainfall time series: the
+44141,Validation of MODIS snow cover images over Austria
+42614,"The recent developments in cloud removal approaches of MODIS snow cover
 "
-17953,Calibration of a land surface model using multiple data sets
-15672,"Annual runoff estimation - an example of karstic aquifers in the
+7461,"Using the Airborne Snow Observatory to Assess Remotely Sensed Snowfall
 "
-1319,Velocity distribution for open channel flows with suspended vegetation
-42467,"Paradigm Shifts on Flood Risk Management in Japan: Detecting Triggers of
+17953,"Estimating the spatial distribution of snow water equivalence in a
 "
-4333,"The importance of city trees for reducing net rainfall: comparing
+15672,"A new approach of dynamic monitoring of 5-day snow cover extent and snow
 "
-16438,"An entropy approach for the optimization of cross-section spacing for
+1319,"Snow depth, density, and SWE estimates derived from GPS reflection data:
 "
-6953,Climate and hydrological variability: the catchment filtering role
-24784,"Characterisation of hydraulic head changes and aquifer properties in the
+42467,"Evaluation of MODIS and VIIRS cloud-gap-filled snow-cover products for
 "
-15461,"A double-porosity model for a fractured aquifer with non-Darcian flow in
+4333,"A compilation of multitemporal TLS snow depth distribution maps at the
 "
-7446,"Are there signs of acidification reversal in freshwaters of the low
+16438,"Snow water equivalent estimation in the Mallero basin using snow gauge
 "
-10673,Unexpected nationwide nitrate declines in groundwater of Korea
-4293,"Modelling of the shallow water table at high spatial resolution using
+6953,"Snow water equivalent along elevation gradients in the Merced and
 "
-1976,"Visual analytics clarify the scalability and effectiveness of massively
+24784,"Evaluation of the Snow Simulations from the Community Land Model,
 "
-14187,"Recent studies on surface water-groundwater relationships at
+15461,"Deriving snow-cover depletion curves for different spatial scales from
 "
-4185,"Scenario approach for the seasonal forecast of Kharif flows from the
+7446,"Exploring Deep Neural Networks to Retrieve Rain and Snow in high
 "
-1583,"Selecting the appropriate hydraulic model structure using low-resolution
+10673,"Spatio-temporal combination of MODIS images - potential for snow cover
 "
-24579,"Taming the torrents: The hydrological impacts of ancient terracing
+4293,"Comparing Aerial Lidar Observations With Terrestrial Lidar and
 "
-19659,"Water and energy budgets simulation over the AMMA-Niger super-site
+1976,"Mapping snow distribution in the Alaskan Arctic using aerial photography
 "
-25902,Stormwater infiltration and the `urban karst' - A review
-15082,"Use of artificial flood events to demonstrate the invalidity of simple
+14187,Evaluation of snow products over the Tibetan Plateau
+4185,"Assessing the Ability of Structure From Motion to Map High-Resolution
 "
-17937,"Comment on ``Sensitivity analysis and determination of streambed
+1583,"LiDAR-derived snowpack data sets from mixed conifer forests across the
 "
-13325,"Removal of artifact depressions from digital elevation models: towards a
+24579,"Statistical Downscaling of Gridded Wind Speed Data Using Local
 "
-22938,Effective discharge in Rocky Mountain headwater streams
-22988,"Catchments as heterogeneous and multi-species reactors: An integral
+19659,"Accuracy assessment of MODIS daily snow albedo retrievals with in situ
 "
-23922,"Experimental evidence of how the fractal structure controls the
+25902,"New methods for studying the spatiotemporal variation of snow cover
 "
-23327,Feasibility of groundwater recharge dam projects in arid environments
-10022,Hydrological controls on deep burning in a northern forested peatland
-10745,"Multivariate properties of extreme precipitation events in the Pearl
+15082,"AMSR-E algorithm for snowmelt onset detection in sub-arctic
 "
-9302,"Stage level, volume and time-frequency information content of Lake Tana
+17937,The interactive multisensor snow and ice mapping system
+13325,"Modelled and satellite-derived surface albedo of lake ice - Part I:
 "
-22195,"Hydrograph and chloride pollutograph analysis of Hobbs Brook reservoir
+22938,"Evaluation and comparison of MODIS and IMS snow-cover estimates for the
 "
-12043,"Identifying threshold storm events and quantifying potential impacts of
+22988,"Analysis of ground-measured and passive-microwave-derived snow depth
+"
+23922,"Bias Adjustment of Satellite Precipitation Estimation Using Ground-Based
+"
+23327,"A Real-Time Algorithm for Merging Radar QPEs with Rain Gauge
+"
+10022,"Seasonal small-scale spatial variability in alpine snowfall and snow
+"
+10745,"Climatological analysis of manually digitized radar data for the United
+"
+9302,"Climatological analysis of manually digitized radar data for the United
+"
+22195,"Evaluation of gridded precipitation data in the Hindu
+"
+12043,"Estimation of daily cloud-free, snow-covered areas from MODIS based on
 "
 48897,"Application of Satellite Microwave Images in Estimating Snow Water
 "
-13819,"Assessing the impact of climate variability and human activities on
+13819,"Subgrid variability of snow water equivalent at operational snow
 "
-24034,"Baseflow dynamics: Multi-tracer surveys to assess variable groundwater
+24034,"Mesocell Study Area Snow Distributions for the Cold Land Processes
 "
-26742,"Modelling of river faecal indicator bacteria dynamics as a basis for
+26742,"Comparison of snowfall estimates from the NASA CloudSat Cloud Profiling
 "
-44049,"Computer construction of fractal soil structures: Simulation of their
+44049,"Commentary on comparison of MODIS snow cover and albedo products with
 "
-43538,"ON GEOMORPHOLOGICAL DISPERSION IN NATURAL CATCHMENTS AND THE
+43538,"Assessing the application of a laser rangefinder for determining snow
 "
-17043,"Twenty-three unsolved problems in hydrology (UPH) - a community
+17043,"Investigating snowpack across scale in the northern Great Lakes-St.
 "
-24750,"Strategies for avoiding errors and ambiguities in the analysis of
+24750,"Improving Satellite Quantitative Precipitation Estimation Using
 "
-24017,"Reconstructed streamflow using SST and tree-ring chronologies over the
+24017,"NASA Cold Land Processes Experiment (CLPX 2002/03): Spaceborne Remote
 "
-24512,"Evaluation of soil moisture data products over Indian region and
+24512,"How Frequent is Precipitation over the Contiguous United States?
 "
-14598,"Snow wetness estimates of vegetated terrain from satellite passive
+14598,"Automatic mapping of snow cover depletion curves using optical remote
 "
-11402,"Methods for developing time-series climate surfaces to drive
+11402,"Automated mapping of montane snow cover at subpixel resolution from the
 "
-24394,"Characterization of snowmelt flux and groundwater storage in an alpine
+24394,"Evaluation of Global Precipitation Measurement Rainfall Estimates
 "
-13326,"Study of hydrological processes by the combination of environmental
+13326,"Modelled and satellite-derived surface albedo of lake ice - part II:
 "
-24673,"Quantification of flash flood economic risk using ultra-detailed
+24673,"A Multiscale Evaluation of the Detection Capabilities of High-Resolution
 "
-26676,"On the attribution of changing crop evapotranspiration in arid regions
+26676,"Comparison of gridded snow water equivalent products with in situ
 "
-3365,Computation of a dam break flood wave in channel transitions
-23206,"Monitoring soil volume wetness in heterogeneous soils by electrical
+3365,"Long-term precipitation database, Reynolds Creek Experimental Watershed,
 "
-14431,"Proposing a formula for evaporation measurement from salt water
+23206,"An exploratory multisensor technique for quantitative estimation of
 "
-23454,"Assessing the effects of spatial discretization on large-scale flow
+14431,"MODIS Terra Collection 6 fractional snow cover validation in mountainous
 "
-24445,"Use of hydrochemistry as a standalone and complementary groundwater age
+23454,"Improvement of High-Resolution Satellite Rainfall Product for Typhoon
 "
-39058,"Quantile hydrologic model selection and model structure deficiency
+24445,"Observing the May 2015 Record Rainfall at Norman, Oklahoma, Using
 "
-45155,"Experimental analysis of size and distance of travel of unconstrained
+39058,"Distributed snow accumulation and ablation modeling in the American
 "
-41054,"Predicting shifts in rainfall-runoff partitioning during multiyear
+45155,"Reducing cloud obscuration of MODIS snow cover area products by
 "
-17776,"A mass-conservative switching method for simulating
+41054,Assessment of methods for mapping snow cover from MODIS
+17776,"Representativeness of local snow data for large scale hydrologic
 "
-1758,"Using a mechanical approach to quantify flow resistance by submerged,
+1758,"Reconstructing solid precipitation from snow depth measurements and a
 "
-24765,"Water consumption and water-saving characteristics of a ground cover
+24765,"Global Precipitation Estimates from Cross-Track Passive Microwave
 "
-27998,"Dilution of sewage: Is it, after all, really worth the bother?"
-24801,"The influence of flow inertia, buoyancy, wind, and flow unsteadiness on
+27998,"A regional snow-line method for estimating snow cover from MODIS during
 "
-40955,"Upstream water resource management to address downstream pollution
+24801,"Evaluation of the Global Land Data Assimilation System (GLDAS) Air
 "
-32224,"Characteristics of Land-Air Exchange Parameters over Grassland in
+40955,"Wind effects on snow cover in Pascua-Lama, Dry Andes of Chile"
+32224,"Performance evaluation of radar and satellite rainfalls for Typhoon
 "

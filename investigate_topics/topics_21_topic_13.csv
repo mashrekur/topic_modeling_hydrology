@@ -1,188 +1,167 @@
 ,Title
-2938,Modelling of multispecies reactive transport on pore-space images
-6601,"Antecedent flow conditions and nitrate concentrations in the Mississippi
+2938,"Local scouring due to turbulent water jets downstream of a trapezoidal
 "
-15430,"Geochemical and isotopic study of the multilayer aquifer system in the
+6601,"Experiments in a high-amplitude Kinoshita meandering channel: 2.
 "
-43569,"ROAD SURFACE DRAINAGE, CHANNEL INITIATION, AND SLOPE INSTABILITY"
-1618,"Flow time estimation with spatially variable hillslope velocity in
+15430,"Reenvisioning velocity reversal as a diversity of hydraulic patch
 "
-1095,"An analytical solution for non-Darcian flow in a confined aquifer using
+43569,"A flume experiment on the effect of constriction shape on the formation
 "
-2835,"Pore-network modelling of non-Darcy flow through heterogeneous porous
+1618,"Flow separation and shear stress over angle-of-repose bed forms: A
 "
-2549,A comparison of methods to estimate future sub-daily design rainfall
-6362,"Expected changes in future temperature extremes and their elevation
+1095,"Influence of step composition on step geometry and flow resistance in
 "
-40207,HOW MUCH COMPLEXITY IS WARRANTED IN A RAINFALL-RUNOFF MODEL
-3546,"The 2010-2015 megadrought in central Chile: impacts on regional
+2835,"Flow resistance dynamics in step-pool stream channels: 1. Large woody
 "
-73920,"Steady-State Analytical and Numerical Solutions of Confined and
+2549,"Critical flow constrains flow hydraulics in mobile-bed streams: A new
 "
-466,"Parameter estimation of two-fluid capillary pressure-saturation and
+6362,Length scale of braided river morphology
+40207,Mean flow and turbulence around experimental spur dike
+3546,Macroturbulent structure of open-channel flow over gravel beds
+73920,Study of flow over side weirs under supercritical conditions
+466,"Effect of large woody debris configuration on three-dimensional flow
 "
-26573,"Effects of irrigation-induced water table fluctuation on arsenic
+26573,"The effect of floodplain grass on the flow characteristics of meandering
 "
-1994,"Wind effects on snow cover in Pascua-Lama, Dry Andes of Chile"
-10217,"Influences of sudden changes in discharge and physical stream
+1994,Interactions between pool geometry and hydraulics
+10217,Structure of turbulent flow in a meander bend of a lowland river
+40119,"Effect of accelerating and decelerating flows on incipient motion in
 "
-40119,"NUMERICAL-SIMULATION OF CHEMICAL MIGRATION IN PHYSICALLY AND CHEMICALLY
+1126,Geomorphic controls on hyporheic exchange flow in mountain streams
+2627,"Observations of event-based streambed deformation in a gravel bed
 "
-1126,"Capillary pressure for the sand-CO2-water system under various pressure
+39019,Velocity distribution in combined wave-current flows
+38579,"A numerical study of the complex flow structure in a compound meandering
 "
-2627,"Climate-driven endemic cholera is modulated by human mobility in a
+6794,"Flow and turbulence structure around a spur dike in a channel with a
 "
-39019,"Extended contingency table: Performance metrics for satellite
+797,Downstream hydraulic geometry relations: 1. Theoretical development
+5748,"EXPERIMENTAL CONSTRAINTS ON BAR MIGRATION THROUGH BENDS - IMPLICATIONS
 "
-38579,"Dissolved nutrient retention dynamics in river networks: A modeling
+7198,"Lateral transfer of streamwise momentum caused by a roughness transition
 "
-6794,"Understanding runoff processes in a semi-arid environment through
+1500,"Interactions between flow structure and morphodynamic of bars in a
 "
-797,"Control volume function approximation methods and their applications to
+244,CONVECTIVE ACCELERATIONS AND BOUNDARY SHEAR-STRESS OVER A CHANNEL BAR
+7012,"Hydraulics, morphology, and energy dissipation in an alpine step-pool
 "
-5748,"Potential and limitations of using soil mapping information to
+363,"Near-bed and surface flow division patterns in experimental river
 "
-7198,"Technical note: Inference in hydrology from entropy balance
+3400,"Field investigation of three-dimensional flow structure at stream
 "
-1500,"DuMu(x): DUNE for multi-\{phase, component, scale, physics, ...\} flow
+12358,Flow and turbulence redistribution in a straight artificial pool
+971,Dynamics of channel bifurcations in noncohesive sediments
+10968,POOL SPACING IN FOREST CHANNELS
+9525,POOL SPACING IN FOREST CHANNELS
+3237,"Hydraulic conditions in experimental rill confluences and scour in
 "
-244,"Comment on ``The hydrology and hydrometeorology of extreme floods in the
+16910,"Effect of non-uniformity of flow on velocity and turbulence intensities
 "
-7012,"Propagation of hydro-meteorological uncertainty in a model cascade
+2851,"Mean flow, turbulence structure, and bed form superimposition across the
 "
-363,"Analytical modeling of diffusion-limited contamination and
+9372,STEP-POOL STREAMS - ADJUSTMENT TO MAXIMUM FLOW RESISTANCE
+10815,STEP-POOL STREAMS - ADJUSTMENT TO MAXIMUM FLOW RESISTANCE
+5413,"Hydrodynamics of steep streams with planar coarse-grained beds:
 "
-3400,THE FINITE-ELEMENT METHOD - IS WEIGHTED VOLUME INTEGRATION ESSENTIAL
-12358,"The influence of physical and physiological characteristics of
+38261,"Bed morphodynamics at the intake of a side channel controlled by sill
 "
-971,"Mixing at the interface between fresh and salt waters in 3D steady flow
+8816,"Three-dimensional flow structure and bed morphology in large elongate
 "
-10968,"Water storage dynamics in a till hillslope: the foundation for modeling
+20236,"Influence of upstream inflow on wave celerity and time to equilibrium on
 "
-9525,"Assessment of 2DH and pseudo-3D modelling platforms in a large saline
+5077,"Direct measurements of lift and drag on shallowly submerged cobbles in
 "
-3237,A theoretical extension of the soil freezing curve paradigm
-16910,"Long-term changes in temperature of river waters in the transitional
+5604,FLUME SIMULATION OF RECIRCULATING FLOW AND SEDIMENTATION
+19254,"RETRACTED: A modelling study of hyporheic exchange pattern and the
 "
-2851,"The effects of cascade dam construction and operation on riparian
+12798,"Planform evolution of two anabranching structures in the Upper Peruvian
 "
-9372,"Impact of overlying water velocity on ammonium uptake by benthic
+60885,INCREASED HYDRAULIC RESISTANCE IN COMBINING OPEN-CHANNEL FLOWS
+2905,Dimensions of standing waves at steps in mountain rivers
+811,Flow in meander bends with recirculation at the inner bank
+10483,"An investigation of the flow and scour mechanisms around isolated spur
 "
-10815,"Variation in hydrologic connectivity as a result of microtopography
+22548,"Experimental study on the influence of river flow confluences on the
 "
-5413,"Throughfall and temporal trends of rainfall redistribution in an open
+19255,"Patterns in stream longitudinal profiles and implications for hyporheic
 "
-38261,"Semianalytical solutions for cocurrent and countercurrent imbibition and
+19573,"A modeling study of hyporheic exchange pattern and the sequence, size,
 "
-8816,"A statistically based runoff-yield model coupling infiltration excess
+6455,"Morphology, flow structure, and suspended bed sediment transport at two
 "
-20236,"Impact of the Gezhouba and Three Gorges Dams on habitat suitability of
+2651,"Flow convergence routing hypothesis for pool-riffle maintenance in
 "
-5077,"Prospecting for safe (low fluoride) groundwater in the Eastern African
+41287,"Turbulence between two inline hemispherical obstacles under wave-current
 "
-5604,"Series distance - an intuitive metric to quantify hydrograph similarity
+8843,Multidecadal dynamics of alternate bars in the Alpine Rhine River
+40001,"Turbulence characteristics of flows passing through a tetrahedron frame
 "
-19254,"Spatial and temporal variability of precipitation maxima during
+43001,"Technical Note: Monitoring of unsteady open channel flows using the
 "
-12798,"Comparison of spatial interpolation methods for estimating snow
+12020,"Characterization of the hydraulics at natural step crests in step-pool
 "
-60885,"THE MEASUREMENT OF NITRITE, NITRATE AND PHOSPHATE WITH TEST KITS AND
+2734,Spatial patterns of scour and fill in dryland sand bed streams
+12659,"Morphodynamic response of a variable-width channel to changes in
 "
-2905,"The influence of granular segregation on gravity-driven particle-fluid
+12445,"Streambed and water profile response to in-channel restoration
 "
-811,"Reduced models for linear groundwater flow models using empirical
+8414,"Mean and turbulent flow structure during the amalgamation process in
 "
-10483,"The exponential decline in saturated hydraulic conductivity with depth:
+11450,"Hydrodynamics of a forced riffle pool in a gravel bed river: 2. Scale
 "
-22548,"A novel architecture for pore network modelling with applications to
+7883,"Flow and turbulence structure around an in-stream rectangular cylinder
 "
-19255,"Spatio-temporal analysis of potential aquifer recharge: Application to
+12018,"Frequency-wavenumber velocity spectra, Taylor's hypothesis, and length
 "
-19573,"Age-distribution estimation for karst groundwater: Issues of
+29598,"Velocity distribution characteristics in meandering compound channels
 "
-6455,"Hydroclimatic regimes: a distributed water-balance framework for
+26239,"Backwater control on riffle-pool hydraulics, fish habitat quality, and
 "
-2651,"An immersed boundary-lattice Boltzmann model for biofilm growth in
+38555,"Wake structure and sediment deposition behind models of submerged
 "
-41287,"Bayesian nitrate source apportionment to individual groundwater wells in
+28252,"Field-derived relationships for flow velocity and resistance in
 "
-8843,"Forest influences on snow accumulation and snowmelt at the Hubbard Brook
+22391,"Implication of the flow resistance formulae on the prediction of flood
 "
-40001,"Hydrogeochemical and mineralogical effects of sustained CO2
+12460,"Self-adjustment of stream bed roughness and flow velocity in a steep
 "
-43001,Hydrogeological Model Selection Among Complex Spatial Priors
-12020,"A geomorphology-based integrated stream-aquifer interaction model for
+5369,"Mixing layer and coherent structures in compound channel flows: Effects
 "
-2734,"Outer region scaling using the freestream velocity for nonuniform open
+5484,"ROUGHNESS OF STABLE, ARMORED GRAVEL BEDS"
+6600,"Experiments in a high-amplitude Kinoshita meandering channel: 1.
 "
-12659,"Testing in-class variability of groundwater systems: local upland
+4534,Turbulence Over Chains of Hemispherical Ribs Under Waves in a Current
+6965,"Effects of stream discharge, alluvial depth and bar amplitude on
 "
-12445,"An investigation of snowmelt runoff on experimental plots in Lulea,
+5262,"Effect of sampling time in the laboratory investigation of braided
 "
-8414,"A coupled model for simulating surface water and groundwater
+39073,The role of vortex shedding in the scour of pools
+8557,"Variable contribution of wood to the hydraulic resistance of headwater
 "
-11450,"Estimating the suspended sediment loads of rivers in the LOIS study area
+38976,Velocity distribution in a gradually accelerating free surface flow
+5359,"A numerical investigation into the importance of bed permeability on
 "
-7883,"Neural network and wavelet conjunction model for modelling monthly level
+7697,"Experimental Investigation of Three-Dimensional Flow Structure and
 "
-12018,"Evaporation from seasonally frozen bare and vegetated ground at various
+10132,Three-dimensional flow in centered pool-riffle sequences
+11449,"Hydrodynamics of a forced riffle pool in a gravel bed river: 1. Mean
 "
-29598,"Detecting changes in streamflow response to changes in nonclimatic
+5454,MEAN FLOW AND TURBULENCE FIELDS OVER 2-DIMENSIONAL BED FORMS
+20457,"CABRAL,ESTEVAO PIONEERING CONTRIBUTION TO OPEN CHANNEL HYDROMETRY"
+10323,"A Bayesian analysis of physical habitat changes at tributary confluences
 "
-26239,"Dynamics of dissolved organic carbon in hillslope discharge: Modeling
+21271,Accelerating shear velocity in gravel-bed channels
+17439,"Analysis of groundwater exchange for a large plains river in Colorado
 "
-38555,"Ensemble hydrological prediction-based real-time optimization of a
+14405,"The effects of discharge and slope on hyporheic flow in step-pool
 "
-28252,"Stable isotope patterns reveal widespread rainy-period-biased recharge
+15505,"Factors influencing the calculation of periodic secondary circulation in
 "
-22391,Hydrological climate change projections for Central America
-12460,"Evaluating the water balance of inland seas using isotopic tracers: the
+3492,Meander migration and the lateral tilting of floodplains
+25043,"GRAVEL-BED DEPOSITION AND EROSION BY BEDFORM MIGRATION OBSERVED
 "
-5369,"Recent trends in groundwater levels in a highly seasonal hydrological
-"
-5484,"Reconstructing and analyzing China's fifty-nine year (1951-2009) drought
-"
-6600,"Using hydrologic measurements to investigate free-phase gas ebullition
-"
-4534,"A large sample analysis of European rivers on seasonal river flow
-"
-6965,Estimates of global dew collection potential on artificial surfaces
-5262,"Comparison of empirical models with intensively observed data for
-"
-39073,"Permeability evolution due to dissolution and precipitation of
-"
-8557,"A complementary relationship evaporation model referring to the Granger
-"
-38976,"An assessment of the effect of horizontal soil moisture heterogeneity on
-"
-5359,"Deriving a global river network map and its sub-grid topographic
-"
-7697,"Effects of summer drought on peat soil solution chemistry in an acid
-"
-10132,Post-processing of ensemble forecasts in low-flow period
-11449,"Development of a sediment delivery model for application in large river
-"
-5454,"Mapping and attribution of change in streamflow in the coterminous
-"
-20457,"Quantifying the water balance in a planar hillslope plot: Effects of
-"
-10323,"Throughfall enrichment and stream nutrient chemistry in small headwater
-"
-21271,"INVESTIGATION OF A SOLVENT POLLUTED INDUSTRIAL SITE ON A DEEP SANDSTONE
-"
-17439,"Downscaling two versions of a general circulation model to estimate
-"
-14405,"Trends of precipitation in Beijiang River basin, Guangdong Province,
-"
-15505,"Daily water stage estimated from satellite altimetric data for large
-"
-3492,GROUNDWATER MODELS CANNOT BE VALIDATED - COMMENT
-25043,"Uncertainty of natural tracer methods for quantifying river-aquifer
-"
-10043,"Connecting precipitation inputs and soil flow pathways to stream water
-"
-14858,3-DIMENSIONAL MODELING OF HILLSLOPE HYDROLOGY
-18689,"Application of linear programming and differential evolutionary
-"
-6423,"Climate change and sectors of the surface water cycle In CMIP5
+10043,Origin of hysteresis in bed form response to unsteady flows
+14858,"At-a-station hydraulic geometry relations, 1: theoretical development"
+18689,Laboratory flume studies of microflow environments of aquatic plants
+6423,"Nature of flow and turbulence structure around an in-stream vertical
 "

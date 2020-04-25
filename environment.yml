@@ -20,6 +20,7 @@ dependencies:
   - certifi=2020.4.5.1=py37_0
   - cffi=1.14.0=py37h2e261b9_0
   - chardet=3.0.4=py37_1003
+  - colorcet=2.0.2=py_0
   - cryptography=2.8=py37h1ba5d50_0
   - cycler=0.10.0=py37_0
   - cymem=1.31.2=py37h6bb024c_0

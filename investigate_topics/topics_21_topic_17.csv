@@ -1,185 +1,179 @@
 ,Title
-9434,"Modelling snow water equivalent and spring runoff in a boreal watershed,
+9434,ON HIGHER-ORDER CORRECTIONS TO THE FLOW VELOCITY COVARIANCE TENSOR
+10877,ON HIGHER-ORDER CORRECTIONS TO THE FLOW VELOCITY COVARIANCE TENSOR
+38095,Boundary condition sensitivity analysis of the stochastic flow equation
+6055,"A NOTE ON HEAD AND VELOCITY COVARIANCES IN 3-DIMENSIONAL FLOW THROUGH
 "
-10877,"Differences in seasonality and temperature dependency of stand
+39377,Central scheme for two-dimensional dam-break flow simulation
+39283,Central scheme for two-dimensional dam-break flow simulation
+4332,"On a Class of Integrals Useful to Solve Well-Type Flows in Heterogeneous
 "
-38095,"Revisiting scaling laws in river basins: New considerations across
+36681,"Analytical solutions to two-dimensional advection-dispersion equation in
 "
-6055,"Joint statistical correction of clutters, spokes and beam height for a
+3815,"Extension of ``Transient flow in bounded randomly heterogeneous domains,
 "
-39377,"Imaging high stage river-water intrusion into a contaminated aquifer
+11280,"Effective hydraulic conductivity of bounded, strongly heterogeneous
 "
-39283,"Estimating Escherichia coli loads in streams based on various physical,
+9639,SOME EXACT-SOLUTIONS OF CONVECTION-DIFFUSION AND DIFFUSION-EQUATIONS
+11038,"ON THE VELOCITY COVARIANCE AND TRANSPORT MODELING IN HETEROGENEOUS
 "
-4332,"Sediment transport modelling in riverine environments: on the importance
+9595,"ON THE VELOCITY COVARIANCE AND TRANSPORT MODELING IN HETEROGENEOUS
 "
-36681,"MODELING TRANSPORT AND BIODEGRADATION OF BENZENE AND TOLUENE IN SANDY
+6052,"ON SPECTRAL MEASURE AND MONTE-CARLO APPROACHES TO FLOW IN HETEROGENEOUS
 "
-3815,"Experimental study on retardation of a heavy NAPL vapor in partially
+39972,A two-grid method for coupled free flow with porous media flow
+6478,"Two-scale analytical homogenization of Richards' equation for flows
 "
-11280,"Understanding land use and cover change impacts on run-off and sediment
+2401,"On the variances of second spatial moments of a nonergodic plume in
 "
-9639,Validation of the Flood-PROOFS probabilistic forecasting system
-11038,"Tillage-induced surface roughness and topographic conditions for rill
+39102,"On a monotonicity preserving Eulerian-Lagrangian localized adjoint
 "
-9595,"River discharge, land use change, and surface water quality in the
+39690,Similarity solution of the Boussinesq equation
+40508,"Lattice Boltzmann and analytical modeling of flow processes in
 "
-6052,"An ecohydrological sketch of climate change impacts on water and natural
+39289,"Application of the discontinuous spectral Galerkin method to groundwater
 "
-39972,"Modeling and analysis of evaporation processes from porous media on the
+39383,"Application of the discontinuous spectral Galerkin method to groundwater
 "
-6478,"Development of streamflow drought severity-duration-frequency curves
+3869,"Nonstationary stochastic analysis of transient unsaturated flow in
 "
-2401,"Regional frequency analysis at ungauged sites using a two-stage
+18111,Generalization of TOPMODEL for a power law transmissivity profile
+38028,"Stochastic analysis of velocity spatial variability in bounded
 "
-39102,"Identifying sources and processes influencing nitrogen export to a small
+1939,"Analytical solutions to statistical moments for transient flow in
 "
-39690,"Controls on groundwater flow in a semiarid folded and faulted
+312,"BOUNDARY ELEMENT SOLUTION FOR STOCHASTIC GROUNDWATER-FLOW - RANDOM
 "
-40508,"Hydration and diffusion processes shape microbial community organization
+40315,"Saltwater intrusion modeling in heterogeneous confined aquifers using
 "
-39289,"How runoff begins ( and ends): Characterizing hydrologic response at the
+39418,"Two-dimensional Laplace-transformed power series solution for solute
 "
-39383,"Multiobjective optimization of water distribution systems accounting for
+1070,Transient well-type flows in heterogenous formations
+3641,Stochastic modeling of heterogeneous phreatic aquifers
+9730,"A SEMIANALYTICAL METHOD OF PATH LINE COMPUTATION FOR TRANSIENT
 "
-3869,"Towards a simple representation of chalk hydrology in land surface
+2292,"Higher-order corrections to the flow velocity covariance tensor,
 "
-18111,"A generalized 3-D geological and hydrogeological conceptual model of
+37987,"An efficient probabilistic finite element method for stochastic
 "
-38028,"A new model for predicting relative nonwetting phase permeability from
+2285,"Transient effective hydraulic conductivities under slowly and rapidly
 "
-1939,"Monitoring water transport in sandstone using flow propagators: A
+4437,"A Generalized Series Solution for the Boussinesq Equation With Constant
 "
-312,"Theoretical estimation of free and entrapped nonwetting-wetting fluid
+3098,"Macrodispersivity for transport in arbitrary nonuniform flow fields:
 "
-40315,"SIMULATION OF FLUID DISTRIBUTIONS OBSERVED AT A CRUDE-OIL SPILL SITE
+40661,"Comment on the effect of anisotropy on the onset of convection in a
 "
-39418,"Comment on ``Plume spreading in groundwater by stretching and
+39618,"A numerical comparison between two upscaling techniques: non-local
 "
-1070,"Effects of wettability and pore-level displacement on hydrocarbon
+9436,"STOCHASTIC DIAGRAMMATIC ANALYSIS OF GROUNDWATER-FLOW IN HETEROGENEOUS
 "
-3641,"Characterizing the spatial variations and correlations of large
+10879,"STOCHASTIC DIAGRAMMATIC ANALYSIS OF GROUNDWATER-FLOW IN HETEROGENEOUS
 "
-9730,"Estimating source regions for snowmelt runoff in a Rocky Mountain basin:
+12672,"A general analytical solution for steady flow in heterogeneous porous
 "
-2292,"An analytical solution for predicting the transient seepage from a
+9660,"TRANSIENT FLOW TO OPEN DRAINS - COMPARISON OF LINEARIZED SOLUTIONS WITH
 "
-37987,"The role of tropical modes of variability in recent rainfall deficits
+3153,"New form of dispersion tensor for axisymmetric porous media with
 "
-2285,A transport phase diagram for pore-level correlated porous media
-4437,"Anthropogenic and catchment characteristic signatures in the water
-"
-3098,Adaptive water infrastructure planning for nonstationary hydrology
-40661,"Surface water types and sediment distribution patterns at the confluence
-"
-39618,"Estimation of the distribution of annual runoff from climatic variables
-"
-9436,"Long-term variability in the water budget and its controls in an
-"
-10879,"Bedrock geology controls on catchment storage, mixing, and release: A
-"
-12672,Controls on the chemistry of runoff from an upland peat catchment
-9660,"Uncertainty of snow water equivalent retrieved from AMSR-E brightness
-"
-3153,"A phase-field lattice Boltzmann model for simulating multiphase flows in
-"
-10740,"Using high-resolution isotope data and alternative calibration
+10740,"Stochastic analysis of head spatial variability in bounded rectangular
 "
 52487,"Truncation errors in finite difference models for solute transport
 "
-9297,Rethinking infiltration in wildfire-affected soils
-73779,"Seasonal Inflow Forecasts Using Gridded Precipitation and Soil Moisture
+9297,"Stochastic analysis of head spatial variability in bounded rectangular
 "
-32111,"Using the Gradient Boosting Decision Tree to Improve the Delineation of
+73779,"Analytical Solutions and Simulation Approaches for Double Permeability
 "
-1712,"Response to comment by AG Slater, MP Clark, and AP Barrett on
+32111,"A stochastic dimension reduction multiscale finite element method for
 "
-38454,"Cooperative institutions for sustainable common pool resource
+1712,"Finite volume multiscale finite element method for solving the
 "
-979,"Modeling radar-rainfall estimation uncertainties using parametric and
+38454,"Polynomial approximate solutions of an unconfined Forchheimer
 "
-4915,"Comparison of mercury in atmospheric deposition and in Illinois and USA
+979,"Two-medium description of dispersion in heterogeneous porous media:
 "
-30539,"COMPUTATION OF THE INSTANTANEOUS UNIT-HYDROGRAPH AND IDENTIFIABLE
+4915,"On the second-order correction to velocity covariance for
 "
-5736,"DREAM((D)): an adaptive Markov Chain Monte Carlo simulation algorithm to
+30539,"Linearized cosimulation of hydraulic conductivity, pressure head, and
 "
-2659,"A 1D-2D Shallow Water Equations solver for discontinuous porosity field
+5736,"A SIMPLIFIED NEWTON ITERATION METHOD WITH LINEAR FINITE-ELEMENTS FOR
 "
-39198,"Telegraphic double porosity models for head transient behavior in
+2659,Finite element transport modeling using analytic element flow solutions
+39198,"A finite analytic method for solving the 2-D time-dependent
 "
-39159,Parameter and predictive outcomes of model simplification
-5913,"Experiences of using mobile technologies and virtual field tours in
+39159,"Coupling local discontinuous and continuous Galerkin methods for flow
 "
-39146,Effects of oligotrophication on primary production in peri-alpine lakes
-29083,"Regionalisation of the base flow index from dynamically simulated flow
+5913,"EXTENSION OF THE HEASLET-ALKSNE TECHNIQUE TO ARBITRARY SOIL-WATER
 "
-52205,"Variable-density groundwater flow and solute transport in heterogeneous
+39146,"Error analysis of finite difference methods for two-dimensional
 "
-5861,"Shallow groundwater effect on land surface temperature and surface
+29083,"A modified multiscale finite element method for well-driven flow
+"
+52205,"Stepwise superposition approach for the analytical solutions of
+"
+5861,"MOVING FINITE-ELEMENT MODEL FOR ONE-DIMENSIONAL INFILTRATION IN
 "
 52754,"Numerical correction for finite-difference solution of the
 "
-47873,"Modeling groundwater contaminant transport in the presence of large
+47873,"Two- dimensional modelling of contaminant transport through saturated
 "
-39399,Virus and virus-sized microsphere transport in a dolomite rock fracture
-44748,LH moments for statistical analysis of extreme events
-2284,Quantifying tight-gas sandstone permeability via critical path analysis
-38108,"Optimal dynamic water allocation: Irrigation extractions and
+39399,"Laplace-transform analytic element solution of transient flow in porous
 "
-9746,"Improving flow forecasting by error correction modelling in altered
+44748,"Generalized analytical solution for advection-dispersion equation in
 "
-1073,"Generalized dual porosity: A numerical method for representing spatially
+2284,"Transient flow in bounded randomly heterogeneous domains 2. Localization
 "
-39986,"A method for implementing Dirichlet and third-type boundary conditions
+38108,"PICARD AND NEWTON LINEARIZATION FOR THE COUPLED MODEL OF SALTWATER
 "
-9624,"Discussion about the validity of sharp-interface models to deal with
+9746,"A 3-DIMENSIONAL BOUNDARY-ELEMENT METHOD FOR STEADY UNSATURATED
 "
-40139,AN APPROXIMATION TECHNIQUE FOR STOCHASTIC ENVIRONMENTAL MODELING
-39755,"Spatiotemporal relations between water budget components and soil water
+1073,"Effective hydraulic conductivity of a randomly heterogeneous porous
 "
-5557,"Seasonal prediction of winter extreme precipitation over Canada by
+39986,"Comparison of conductivity averaging methods for one-dimensional
 "
-40766,"What time scales are important for monitoring tidally influenced
+9624,NONLOCAL PROPERTIES OF NONUNIFORM AVERAGED FLOWS IN HETEROGENEOUS MEDIA
+40139,"An analytical effective tensor and its approximation properties for
 "
-40122,"AN APPROXIMATE SOLUTION FOR STEADY VERTICAL FLUX OF MOISTURE THROUGH AN
+39755,"Numerical approximation of head and flux covariances in three dimensions
 "
-5549,Urban hydrology in mountainous middle eastern cities
-520,"Improving the efficiency of ant algorithms using adaptive refinement:
+5557,"3-DIMENSIONAL ANALYTICAL SOLUTIONS TO THE ADVECTION-DISPERSION EQUATION
 "
-3196,"A mixture theory approach to model co- and counter-current two-phase
+40766,Upscaling of Forchheimer flows
+40122,On a power series solution to the Boussinesq equation
+5549,"SOLUTION OF THE FLOW AND MASS-TRANSPORT EQUATIONS BY MEANS OF SPECTRAL
+"
+520,"Application of the multiscale finite element method to flow in
+"
+3196,"A characteristic-based finite analytic method for solving the
 "
 52743,"A consistent approach for applying numerical boundary conditions for
 "
-41180,"Cooperative drought adaptation: Integrating infrastructure development,
+41180,"Rapid computation of directional wellbore drawdown in a confined aquifer
 "
-38247,"Experimental and numerical evidence for intrinsic nonmigrating bars in
+38247,"A CLASS OF PARAMETER-ESTIMATION TECHNIQUES FOR FLUID-FLOW IN
 "
-32267,"Precipitation Analysis over the French Alps Using a Variational Approach
+32267,"Monotonicity of the cell-centred triangular MPFA method for saturated
 "
-38117,Modified equilibrium temperature models for cold-water streams
-38002,"Determinants of residential water consumption: Evidence and analysis
+38117,"OPEN BOUNDARY-CONDITIONS FOR HORIZONTAL 2-D CURVILINEAR-GRID LONG-WAVE
 "
-38376,"Spreading and convective dissolution of carbon dioxide in vertically
+38002,Conjunctive surface-subsurface modeling of overland flow
+38376,"Analytical solution for upscaling hydraulic conductivity in anisotropic
 "
-2465,"Closure relations for mobile bed debris flows in a wide range of slopes
+2465,Average steady nonuniform flow in stratified formations
+40536,Sensitivity equations for hyperbolic conservation law-based flow models
+40433,"Derivation and relative performance of strings of line elements for
 "
-40536,"Linking water age and solute dynamics in streamflow at the Hubbard Brook
+39028,"A mixed-dimensional finite volume method for two-phase flow in fractured
 "
-40433,COMPOUND RANDOM FIELD MODELS OF MULTIPLE SCALE HYDRAULIC CONDUCTIVITY
-39028,"Precipitation predictability associated with tropical moisture exports
+38177,A CONTROL-VOLUME FINITE-ELEMENT MODEL FOR 2-DIMENSIONAL OVERLAND-FLOW
+6413,Analytic elements for flow in harmonically heterogeneous aquifers
+5843,"ASYMPTOTIC CALCULATION OF LAPLACE INVERSE IN ANALYTICAL SOLUTIONS OF
 "
-38177,"Spatial connectivity in a highly heterogeneous aquifer: From cores to
+30533,Average flow in heterogeneous media of trending hydraulic conductivity
+34070,A quasi-analytical solution for groundwater movement in hillslopes
+3281,"An approximate analytical solution for non-Darcy flow toward a well in
 "
-6413,"Negative trade-off between changes in vegetation water use and
+6146,"A CONTINUOUS-TIME INVERSE OPERATOR FOR GROUNDWATER AND CONTAMINANT
 "
-5843,Water management simulation games and the construction of knowledge
-30533,"THE POT MODEL DESCRIBED BY THE GENERALIZED PARETO DISTRIBUTION WITH
+39706,"Use of the generalized integral transform method for solving equations
 "
-34070,"Modeling transport in fractured porous media with the random-walk
-"
-3281,"Use of the Fourier-Laplace transform and of diagrammatical methods to
-"
-6146,"Using the nonlinear aquifer storage-discharge relationship to simulate
-"
-39706,On the upscaling of chemical transport in fractured rock

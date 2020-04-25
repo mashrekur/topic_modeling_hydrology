@@ -1,187 +1,185 @@
 ,Title
-71236,"The Research of Dynamic Variable Fuzzy Set Assessment Model in Water
+71236,"River Stage Forecasting Using Wavelet Packet Decomposition and Machine
 "
-22878,"Impact of precipitation forecast uncertainties and initial soil moisture
+22878,"Multimodel combination techniques for analysis of hydrological
 "
-22284,"Groundwater dynamics converted to a groundwater classification as a tool
+22284,"Improving streamflow estimation in ungauged basins using a
 "
-37252,Ecohydrologic process networks: 2. Analysis and characterization
-70937,"Downscaling Monsoon Rainfall over River Godavari Basin under Different
+37252,"Evaluating a coupled discrete wavelet transform and support vector
 "
-21765,"In-stream phosphate removal by suspended sediments transported from
+70937,"A Comparative Study of Autoregressive, Autoregressive Moving Average,
 "
-72873,"Testing a Dynamic Complex Hypothesis in the Analysis of Land Use Impact
+21765,Streamflow forecasting using least-squares support vector machines
+72873,"Investigation of Empirical Mode Decomposition in Forecasting of
 "
-22817,"Characterisation of hyporheic exchange in a losing stream using
+22817,"Real-time assimilation of streamflow observations into a hydrological
 "
-22411,"Rainfall-runoff modeling using conceptual, data driven, and wavelet
+22411,"Forecasting streamflow by combination of a genetic input selection
 "
-44318,THE EFFECT OF CONSTANT ANISOTROPY ON CAPILLARY BARRIER PERFORMANCE
-25878,"Optimizing streamflow monitoring networks using joint permutation
+44318,"Comparison of three updating schemes using artificial neural network in
 "
-27768,"Exploring parsimonious daily rainfall-runoff model structure using the
+25878,Methods to improve neural network performance in daily flows prediction
+27768,Wavelet regression model for short-term streamflow forecasting
+3218,Using a lognormal diffusion process to forecast river flows
+71802,"A Comparative Study of Various Hybrid Wavelet Feedforward Neural Network
 "
-3218,"A numerical approach for assessing effects of shear on equivalent
+73107,Estimation of Monthly Mean Reference Evapotranspiration in Turkey
+70846,"Streamflow Forecasting Using Four Wavelet Transformation Combinations
 "
-71802,"Multiobjective Memetic Algorithm Applied to the Optimisation of Water
+29623,"Hydrological post-processing of streamflow forecasts issued from
 "
-73107,"Cost-effective Approaches for Sustainable Groundwater Management in
+11873,"An integrated hydrologic Bayesian multimodel combination framework:
 "
-70846,"An Integrated Approach of System Dynamics, Orthogonal Experimental
+14157,"Parameter identification and uncertainty analysis for simulating
 "
-29623,"Selecting fingerprint properties for discriminating potential suspended
+24821,"A Probabilistic Wavelet-Support Vector Regression Model for Streamflow
 "
-11873,Recent snow cover changes over central European low mountain ranges
-14157,Phosphorus in groundwater-an overlooked contributor to eutrophication?
-24821,"Groundwater flow pattern and related environmental phenomena in complex
+50546,"Ann output updating of lumped conceptual rainfall/runoff forecasting
 "
-50546,"Rapid Assessment of Hydrologic Performance of Low Impact Development
+15695,"The data-driven approach as an operational real-time flood forecasting
 "
-15695,"Hydrochemical evaluation of changing glacier meltwater contribution to
+36893,"A wavelet-support vector machine conjunction model for monthly
 "
-36893,"Performance-based optimal design and rehabilitation of water
+4540,"A Stochastic Data-Driven Ensemble Forecasting Framework for Water
 "
-4540,All our yesterdays: a hydrological retrospective
-25412,"Modelling of rainfall, flow and mass transport in hydrological systems -
+25412,"A comparison between wavelet based static and dynamic neural network
 "
-16300,"Using SWAT for sub-field identification of phosphorus critical source
+16300,"Modelling evapotranspiration using discrete wavelet transform and neural
 "
-7917,"Integrating hydrometeorological information for rainfall-runoff
+7917,"Is point uncertain rainfall likely to have a great impact on distributed
 "
-71699,"GIS-Based Assessment for the Development of a Groundwater Quality Index
+71699,SWAT-Based Hydrological Modelling Using Model Selection Criteria
+71492,"Streamflow Forecasting and Estimation Using Least Square Support Vector
 "
-71492,"The Influence of Objective Function and Acceptability Threshold on
+41587,"A non-linear neural network technique for updating of river flow
 "
-41587,Dry season streamflow persistence in seasonal climates
-38713,"Wind-induced resuspension in a shallow lake from Medium Resolution
+38713,"Multi-parametric variational data assimilation for hydrological
 "
-16448,"Statistical interpretation of the daily variation of urban water
+16448,"Neural network and wavelet conjunction model for modelling monthly level
 "
-35548,"Hydrologic synthesis: Across processes, places, and scales"
-14675,"Statistical evaluation of glacier boreholes as indicators of basal
+35548,"Monthly water balance modeling: Probabilistic, possibilistic and hybrid
 "
-24095,"Droughts in a warming climate: A global assessment of Standardized
+14675,"Hydrological time-series modelling using an adaptive neuro-fuzzy
 "
-32463,Skill of medium-range hydrological ensemble predictions
-72499,"The Impact of Institutional Path Dependence on Water Market Efficiency
+24095,Correcting errors in streamflow forecast ensemble mean and spread
+32463,"Development of an effective data-driven model for hourly typhoon
 "
-20492,"Scaling behavior of the fluctuations in stream flow at the outlet of
+72499,"Pan Evaporation Modeling Using Neural Computing Approach for Different
 "
-1155,"Reply to ``Comments on steady- and transient-state inversion in
+20492,Evapotranspiration modelling using support vector machines
+1155,"Wavelet-based multiscale performance analysis: An approach to assess and
 "
-16589,"Time series analysis for evaluating hydrological responses of pore-water
+16589,"Daily pan evaporation modelling using multi-layer perceptrons and radial
 "
-35166,"Trend-oriented sampling strategy and estimation of soluble reactive
+35166,"Daily water level forecasting using wavelet decomposition and artificial
 "
-21722,"Fractal scaling of apparent soil moisture estimated from vertical planes
+21722,"A wavelet-neural network hybrid modelling approach for estimating and
 "
-43831,"ACTIVE CHANNEL GEOMETRY AND DISCHARGE RELATIONS OF US PIEDMONT AND
+43831,"An evaluation of the Canadian global meteorological ensemble prediction
 "
-71775,Financial Analysis of the Spanish Water Sector
-72572,"Estimating the Timing of the Economical Replacement of Water Mains Based
+71775,"Monthly Rainfall Forecasting Using Echo State Networks Coupled with Data
 "
-37495,"Change in macroscopic concentration at the interface between different
+72572,"Bayesian Neural Networks for Uncertainty Analysis of Hydrologic
 "
-16303,"Assessment of climate change impacts on water quantity and quality of
+37495,"Improved error modelling for streamflow forecasting at hourly time steps
 "
-72606,"Current Practice and Future Challenges in Coastal Aquifer Management:
+16303,"Wavelet regression model as an alternative to neural networks for
 "
-9245,"Impact of soil moisture heterogeneity length scale and gradients on
+72606,"River Flow Estimation and Forecasting by Using Two Different Adaptive
 "
-7001,Using variograms to detect and attribute hydrological change
-21008,FIELD-MEASUREMENTS OF WATER AND NITROGEN LOSSES UNDER IRRIGATED MAIZE
-41962,"Mineralogical and transport controls on the evolution of porous media
+9245,"Global sampling to assess the value of diverse observations in
 "
-72181,21st Century Drought Scenarios for the UK
-71694,"Estimation of Groundwater Balance Using Soil-Water-Vegetation Model and
+7001,"Multiscale error analysis, correction, and predictive uncertainty
 "
-32269,"Effects of Water-Table Configuration on the Planetary Boundary Layer
+21008,Managing uncertainty in hydrological models using complementary models
+41962,"Error reduction and representation in stages (ERRIS) in hydrological
 "
-72927,"Alternative Water Resources for Rural Residential Development in Western
+72181,"Influence of Time Discretization and Input Parameter on the ANN Based
 "
-22390,"The SCHADEX method: A semi-continuous rainfall-runoff simulation for
+71694,"Wavelet Analysis-Support Vector Machine Coupled Models for Monthly
 "
-31664,"Impact of Soil Moisture Initialization and Soil Texture on Simulated
+32269,"Applicability of Mamdani and Sugeno fuzzy genetic approaches for
 "
-37622,"A dual active-restrictive approach to incorporating environmental flow
+72927,"Wavelet Bootstrap Multiple Linear Regression Based Hybrid Modeling for
 "
-5299,"Interrelationships between MODIS/Terra remotely sensed snow cover and
+22390,"A combined rotated general regression neural network method for river
 "
-27619,"Hydraulic conductivity of quaternary surficial units within the Eklutna
+31664,"Improving the prediction accuracy of monthly streamflow using a
 "
-43592,"ONE-DIMENSIONAL INFILTRATION WITH MOVING FINITE-ELEMENTS AND IMPROVED
+37622,"Wavelet coupled MARS and M5 Model Tree approaches for groundwater level
 "
-35487,"Comment on ``Characteristic dimensions of the step-pool bed
+5299,"Quantifying model structural error: Efficient Bayesian calibration of a
 "
-22577,"Effects of hydraulic resistance by vegetation on stage dynamics of a
+27619,"Development of an accurate and reliable hourly flood forecasting model
 "
-10699,"The role of land surface versus drainage network characteristics in
+43592,"A past discharge assimilation system for ensemble streamflow forecasts
 "
-44895,Beach water table fluctuations due to wave run-up: Capillarity effects
-33430,"New evidence on the economic benefits of controlling salinity in
+35487,"Improving numerical forecast accuracy with ensemble Kalman filter and
 "
-12728,"Delineation of erosion classes in semi-arid southern African grasslands
+22577,"Enhancing streamflow forecasting using the augmenting ensemble procedure
 "
-20902,"Complementary effects of surface water and groundwater on soil moisture
+10699,"Calibration of hydrological model GR2M using Bayesian uncertainty
 "
-16114,"Ecosystem services of inland wetlands from the perspective of the EU
+44895,River flow time series using least squares support vector machines
+33430,"A systematic assessment and reduction of parametric uncertainties for a
 "
-32688,"The influence of hydrologic modeling on the predicted local weather:
+12728,"Assimilation of stream discharge for flood forecasting: Updating a
 "
-20792,"Assessment of input variables determination on the SVM model performance
+20902,A modified neural network for improving river flow prediction
+16114,"Performance of WASMOD and SWAT on hydrological simulation in Yingluoxia
 "
-42049,"A fully subordinated linear flow model for hillslope subsurface
+32688,"Applicability of Monte Carlo cross validation technique for model
 "
-25794,"Peatland water repellency: Importance of soil water content, moss
+20792,"Adaptive neural-based fuzzy inference system (ANFIS) approach for
 "
-9656,"Modelling atmospheric and hydrologic processes for assessment of meadow
+42049,"A hybrid model to simulate the annual runoff of the Kaidu River in
 "
-70642,"Pre-processing data to predict groundwater levels using the fuzzy
+25794,"Comparative analysis of fuzzy inference systems for water consumption
 "
-25428,"An analysis of the dynamic component of the geomorphologic instantaneous
+9656,"DETERMINING THE RANGE OF PREDICTIONS OF A GROUNDWATER MODEL WHICH ARISES
 "
-27753,"Estimation of reservoir inflow with significant lateral inflow by using
+70642,"A Study on Bayesian Principal Component Analysis for Addressing Missing
 "
-72295,"Integrated Reservoir Management System for Flood Risk Assessment Under
+25428,"Evaluation of data driven models for river suspended sediment
 "
-14644,"Variability of meltwater and solute fluxes from homogeneous melting snow
+27753,"Development of a coupled wavelet transform and neural network method for
 "
-4355,"An evaluation of daily precipitation from a regional atmospheric
+72295,"Estimating Daily Pan Evaporation Using Different Data-Driven Methods and
 "
-26844,"Reference evapotranspiration forecasting based on local meteorological
+14644,"The potential of different ANN techniques in evapotranspiration
+"
+4355,"Statistical Postprocessing of Water Level Forecasts Using Bayesian Model
+"
+26844,"A hybrid approach to monthly streamflow forecasting: Integrating
 "
 48809,"Impact of Watershed Subdivision and Soil Data Resolution on SWAT Model
 "
-6735,"Climate change and stream temperature projections in the Columbia River
+6735,"A platform for probabilistic Multimodel and Multiproduct Streamflow
 "
-41069,"Bounded fractional diffusion in geological media: Definition and
+41069,Stochastic longshore current dynamics
+42273,Operational aspects of asynchronous filtering for flood forecasting
+44196,"Assessing the performance of eight real-time updating models and
 "
-42273,"Groundwater Is Key to Salmonid Persistence and Recruitment in
+71760,"Subset Modeling Basis ANFIS for Prediction of the Reference
 "
-44196,"WATERING UP AFTER CLEAR-CUTTING ON FORESTED WETLANDS OF THE ST-LAWRENCE
+6615,"A sequential Bayesian approach for hydrologic model selection and
 "
-71760,"Locating Water Desalination Facilities for Municipal Drinking Water
+44662,"Multimodel evaluation of twenty lumped hydrological models under
 "
-6615,"Spatially resolved information on karst conduit flow from in-cave dye
+36906,"Evapotranspiration estimation by two different neuro-fuzzy inference
 "
-44662,"Are water table variations in a shallow forest soil consistent with the
+70507,"Reservoir Inflow Prediction by Ensembling Wavelet and Bootstrap
 "
-36906,"Anomalous behavior of soil mantle groundwater demonstrates the major
+71324,"Drought Forecasting Using Neural Networks, Wavelet Neural Networks, and
 "
-70507,"Projection Pursuit Evaluation Model of Regional Surface Water
+33140,Forecasting daily river flows using nonlinear time series models
+22830,"Modelling long-term groundwater fluctuations by extreme learning machine
 "
-71324,"A Surrogate Based Optimization Approach for the Development of
+32026,"Identifying time-varying hydrological model parameters to improve
 "
-33140,"Comment on Russo {[}1991], Serrano {[}1990, 1998], and other
+72214,Monthly Rainfall Prediction Using Wavelet Neural Network Analysis
+43054,"Using satellite-based evapotranspiration estimates to improve the
 "
-22830,"Using regional flow classes as references to analyse flow regime
+11894,"Reducing hydrologic model uncertainty in monthly streamflow predictions
 "
-32026,"A Multiscale Evaluation of Multisensor Quantitative Precipitation
-"
-72214,"The Compensation Mechanism and Water Quality Impacts of
-"
-43054,"Bed Load Sediment Transport and Morphological Evolution in a Degrading
-"
-11894,Thresholds for run-off generation in a drained closed depression
-21096,"THE NITROGEN ISOTOPE COMPOSITION OF GROUNDWATER NITRATES FROM THE EAST
-"
+21096,Comparison of four updating models for real-time river flow forecasting

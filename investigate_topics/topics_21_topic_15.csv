@@ -1,172 +1,185 @@
 ,Title
-14669,"An integrated approach to modelling hydrology and water quality in
+14669,Linking runoff response to burn severity after a wildfire
+20315,"PREDICTING PERVIOUS AND IMPERVIOUS STORM RUNOFF FROM URBAN DRAINAGE
 "
-20315,"The significance of local water resources captured in small reservoirs
+20628,"Temporal variability in hydrological response within a small catchment
 "
-20628,"Deep confined karst detection, analysis and paleo-hydrology
-"
-20339,"Snowmelt hydrograph interpretation: Revealing watershed scale hydrologic
-"
+20339,PERVIOUS AND IMPERVIOUS RUNOFF IN URBAN CATCHMENTS
 50234,Runoff response from two reclaimed watersheds
-15144,Multifractals as a tool to overcome scale problems in hydrology
-26516,"Performance evaluation of hydrological models using ensemble of General
+15144,"Use of the Connectivity of Runoff Model (CRUM) to investigate the
 "
-43446,PARAMETER UNCERTAINTY AND INTERACTION IN COMPLEX ENVIRONMENTAL-MODELS
-16911,"Isotopic time series partitioning of streamflow components under
+26516,"Storage controls on the generation of double peak hydrographs in a
 "
-16043,"Effects of temperature change on water discharge, and sediment and
+43446,"The role of storm scale, position and movement in controlling urban
 "
-17297,"Simulating long series of streamflow using data from an atmospheric
+16911,"Spatial-temporal variability and hydrologic connectivity of runoff
 "
-2934,"Modeling electrokinetic transport and biogeochemical reactions in porous
+16043,Connectivity and runoff dynamics in heterogeneous basins
+17297,"Post-fire, rainfall intensity-peak discharge relations for three
 "
-21802,An aridity index defined by precipitation and specific humidity
-44058,"Climatological analysis of manually digitized radar data for the United
+2934,"Threshold relations in subsurface stormflow: 1. A 147-storm analysis of
 "
-15548,"Applicability of the modified universal soil loss equation for
+21802,"Rainfall-runoff response and event-based runoff coefficients in a humid
 "
-44790,The quest for more powerful validation of conceptual catchment models
-7353,"The impact of acid deposition and forest harvesting on lakes and their
+44058,"Analysis of the runoff response of an alpine catchment at different
 "
-13078,"Controls on effective settling velocities of mud flocs in the Changjiang
+15548,"Storm runoff response to rainfall pattern, magnitude and urbanization in
 "
-16956,"Groundwater potential zones using a combination of geospatial technology
+44790,"Evaluation of catchment contributing areas and storm runoff in flat
+"
+7353,"Effects of Forest Roads on Runoff Initiation in Low-Order Ephemeral
+"
+13078,"RUNOFF GENERATION IN ZERO-ORDER PRECAMBRIAN SHIELD CATCHMENTS - THE
+"
+16956,"Factors affecting dominant peak-flow runoff-generation mechanisms among
 "
 49081,"Comparison of stormwater lag times for low impact and traditional
 "
-16307,"Application of the SWAT model to assess the impact of changes in
+16307,Impact of road-generated storm runoff on a small catchment response
+12946,"Relationships between catchment attributes and hydrological response
 "
-12946,Modelling the impacts of climate change on Australian streamflow
-14805,STREAMFLOW ROUTING IN THE INDIAN ARID ZONE
-12268,"Chemical and isotopic evidence of nitrogen transformation in the
+14805,"Analysis of geomorphologic and hydrological characteristics in watershed
 "
-13122,"Changes in components of the hydrological cycle in the Yellow River
+12268,"Flood timescales: Understanding the interplay of climate and catchment
 "
-19685,Amazon flood wave hydraulics
-28588,"A daily resolution evapoclimatonomy model applied to surface water
+13122,EFFECTS OF LITHOLOGY AND LAND-USE ON STORM RUN-OFF IN EAST LUXEMBOURG
+19685,"Predicting storm runoff from different land-use classes using a
 "
-25524,"A FORMULA FOR COMPUTATION OF TIME-VARYING RECHARGE OF GROUNDWATER -
+28588,Hydrology of subarctic Canadian Shield: heterogeneous headwater basins
+25524,"The role of unpaved roads as active source areas of precipitation excess
 "
-25654,"HOW WET IS WET - PRECIPITATION CONSTRAINTS ON LATE QUATERNARY CLIMATE IN
+25654,"Antecedent moisture conditions and catchment morphology as controls on
 "
-16130,"Estimating potential evapotranspiration without continuous daily data:
+16130,"Effects of hillslope topography on runoff response in a small catchment
 "
-7938,"Application of integrated back-propagation network and self organizing
+7938,"Hydrological connectivity of hillslopes and streams: Characteristic time
 "
-14394,"Spatial and temporal characteristics of droughts in the western part of
+14394,"Characterizing rainfall-runoff signatures from micro-catchments with
 "
-13687,"Isotope hydrological study of mean transit time in the granitic
+13687,"Effect of bedrock flow on catchment rainfall-runoff characteristics and
 "
-15979,"Corrected prediction intervals for change detection in paired watershed
+15979,"Pattern-process relationships in surface hydrology: hydrological
 "
-1715,"Coupling upscaling finite element method for consolidation analysis of
+1715,"Field studies of the storm event hydrologic response in an urbanizing
 "
-30828,"Comments on ``Improving the Numerical Simulation of Soil Moisture-Based
+30828,"SEASONAL HYDROLOGIC RESPONSE AT VARIOUS SPATIAL SCALES IN A SMALL
 "
-16957,"Standard normal homogeneity test as a tool to detect change points in
+16957,"Saturated areas through the lens: 2. Spatio-temporal variability of
 "
-3751,Hydrology of inland tropical lowlands: the Kapuas and Mahakam wetlands
-913,"Application of a mixing-ratios based formulation to model mixing-driven
+3751,"A synthesis of space-time variability in storm response: Rainfall,
 "
-19524,"Antecedent moisture conditions and catchment morphology as controls on
+913,"Runoff production on forest roads in a steep, mountain catchment"
+19524,"Multiple modes of storm runoff generation in a North Carolina coastal
 "
-32230,"Spatiotemporal Variations in Hydroclimate across the Mediterranean Andes
+32230,"Quantification of the spatio-temporal variations in hydrologic
 "
-36480,"Modeling of nonaqueous phase liquid (NAPL) migration in heterogeneous
+36480,"Differences in stream flow in relation to changes in land cover: A
 "
-1043,"Derivation and relative performance of strings of line elements for
+1043,"Role of discrete landscape units in controlling catchment dissolved
 "
-8738,"Determination of synthetic wind functions for estimating open water
+8738,Spectrum of storm event hydrologic response in urban watersheds
+15783,"The influences of catchment geomorphology and scale on runoff generation
 "
-15783,"Hydrological and meteorological extremes derived from taxation records:
+31279,"AN APPLICATION OF A PHYSICALLY BASED SEMIDISTRIBUTED MODEL TO THE
 "
-31279,"Hydrological Climate-Impact Projections for the Rhine River: GCM-RCM
+25469,"Factors controlling inter-catchment variation of mean transit time with
 "
-25469,"STAGNANT AQUIFER CONCEPT .1. LARGE-SCALE ARTESIAN SYSTEMS -
+2329,"Linearity of basin response as a function of scale in a semiarid
 "
-2329,"Mesoscopic aspects of root water uptake modeling - Hydraulic resistances
+31230,"QUANTIFYING STORMFLOW COMPONENTS IN A PENNSYLVANIA WATERSHED WHEN O-18
 "
-31230,"Hydrologic Prediction over the Conterminous United States Using the
+16742,"Connection between streamwater mean residence time and bedrock
 "
-16742,"Hydro-geochemical simulation for the evolution of groundwater quality in
+10478,"Dynamic runoff connectivity of overland flow on steep forested
 "
-10478,"An event simulation approach to the assessment of flood level
+37714,Urbanisation impacts on storm runoff along a rural-urban gradient
+506,Drainage basin morphometrics for depressional landscapes
+6813,"Hierarchical controls on runoff generation: Topographically driven
 "
-37714,"Reply to comment by Jack Lewis et al. on ``Forests and floods: A new
+12951,"Hydrochemical deciphering of streamflow generation in semi-arid East
 "
-506,Application of the single point measurement in discharge estimation
-6813,Quantitative historical hydrology in Europe
-12951,Rapid and far-reaching transport through structured soils
-74049,Game Theory Analysis of the Virtual Water Strategy
-31858,"Evaluating the Influence of Plant-Specific Physiological
+74049,"The influence of watershed and development characteristics on the
 "
-22753,"Making sense of landscape change: Long-term perceptions among local
+31858,"The role of landscape properties, storage and evapotranspiration on
 "
-4363,"Replication of ecologically relevant hydrological indicators following a
+22753,"A probabilistic framework to evaluate the uncertainty of design
 "
-15391,Editorial-Recycling paper vs recycling papers
-13166,"A framework for scaling of hydrologic conceptualizations based on a
+4363,"Effects of Reforestation of a Degraded Imperata Grassland on Dominant
 "
-28157,Spatio-temporal analysis of urban changes and surface water quality
-50679,"Flow-Biology Relationships Based on Fish Habitat Guilds in North
+15391,"Hydrological response of an afforested catchment in a Mediterranean
 "
-19842,"Identification of hydrological trends in the presence of serial and
+13166,"SUBSURFACE FLOW RESPONSES OF A SMALL FORESTED CATCHMENT IN THE OUACHITA
 "
-823,Statistical fusion of two-scale images of porous media
-16036,"A multidisciplinary approach for assessment of the potential of the
+28157,"The role of catchment scale and landscape characteristics for runoff
 "
-3576,"New insights into the differences between the dual node approach and the
+50679,Dual urban and rural hydrograph signals in three small watersheds
+19842,"Distribution of surface imperviousness in small urban catchments
 "
-14299,"Analytical solutions of the advection-dispersion equation for transient
+823,"Quantifying the relative contributions of riparian and hillslope zones
 "
-14892,"EVALUATION OF A WATER EQUIVALENT OF SNOW COVER MAP IN A SMALL
+16036,"Water storage dynamics and runoff response of a boreal Shield headwater
 "
-18161,Efficient accommodation of local minima in watershed model calibration
-44076,"A finite element method for simulating fault block motion and
+3576,"A water balance approach to assessing the hydrologic buffering potential
 "
-31902,"Uncertainty in Future High Flows in Qiantang River Basin, China"
-16042,Multivariate analysis of the low-flow regimes in eastern Canadian rivers
-34239,Sample area of two- and three-rod time domain reflectometry probes
-14067,"Studies on groundwater recharge characteristics at a reclaimed land site
+14299,"Effects of forest roads on the hydrological response of a small-scale
 "
-30299,APPLICATION OF THE SHE TO CATCHMENTS IN INDIA .1. GENERAL RESULTS
-6484,"Validating a spatially distributed hydrological model with soil
+14892,"Investigating hydrologic connectivity and its association with threshold
 "
-14168,"Climate variability, snow, and physiographic controls on storm
+18161,"Modelling runoff generation on small agricultural catchments: Can real
 "
-2331,"Multiple-response Bayesian calibration of watershed water quality models
+44076,"Controls on runoff generation and scale-dependence in a distributed
 "
-39599,Nonlinear time-series modeling of unconfined groundwater head
-35370,"A remote sensing observatory for hydrologic sciences: A genesis for
+31902,"Analysing spatio-temporal process and parameter dynamics in models to
 "
-17651,"THE METHOD OF LOWER-BOUND TO ESTIMATE THE PARAMETERS OF A PEARSON
+16042,"Streamflow response to headwater reforestation in the Ganaraska River
 "
-49705,"Virginia USA water quality, 1978 to 1995: Regional interpretation"
-15644,"Streamflow predictability in the Saskatchewan/Nelson River basin given
+34239,"Importance of rural roads as source areas for runoff in mountainous
 "
-16502,"Groundwater-level forecasting under climate change scenarios using an
+14067,"Peak flow responses to strip thinning in a nested, forested headwater
 "
-14104,Determination of Forchheimer equation coefficients a and b
-10711,"Spatio-temporal variability of Great Lakes basin snow cover ablation
+30299,"Runoff responses to forest thinning at plot and catchment scales in a
 "
-9306,HP - Special Issue on Flood Risk and Uncertainty Preface
-10749,Does an upper limit to river water temperature apply in all places?
-44851,Potential theory for dual-depth subsurface drainage of ponded land
-30223,"Scale-invariance laws in the recurrence interval of extreme floods: an
+6484,"Hydrologic connectivity between landscapes and streams: Transferring
 "
-18226,"Potential value of operationally available and spatially distributed
+14168,"Refining understanding of hydrological connectivity in a boreal
 "
-27639,"A modified SWAT module for estimating groundwater table at Lethbridge
+2331,"Temporal scales and hydrological regimes: Implications for flood
 "
-37455,"Integrated modeling of groundwater-surface water interactions in a
+39599,"Temporal scales of rainfall-runoff processes and spatial scaling of
 "
-18044,"Tracing sources of summer streamflow in boreal headwaters using isotopic
+35370,"Assessing the impact of urbanization on storm runoff in a pen-urban
 "
-9102,"Hydrological processes of a closed catchment-lake system in a semi-arid
+17651,"Stormflow generation in steep forested headwaters: a linked
 "
-12603,"Prediction in ungauged basins: a grand challenge for theoretical
+49705,"ANALYSES OF URBAN DRAINAGE NETWORK STRUCTURE AND ITS IMPACT ON
 "
-9414,"A `Peak-Box' approach for supporting interpretation and verification of
+15644,"Simulating the effects of spatial configurations of agricultural ditch
 "
-10857,A question of uncertainty
-18075,Nonlinear transformation of unit hydrograph
+16502,"Factors influencing surface runoff generation from two agricultural
+"
+14104,"Interaction between runoff - bedrock groundwater in a steep headwater
+"
+10711,"Scaling of dominant runoff generation processes: Nested catchments
+"
+9306,"On the relative roles of hillslope processes, channel routing, and
+"
+10749,"On the relative roles of hillslope processes, channel routing, and
+"
+44851,"The influence of soil moisture on threshold runoff generation processes
+"
+30223,"Runoff at contrasting scales in a semiarid ecosystem: A complex balance
+"
+18226,Are big basins just the sum of small catchments?
+27639,Quantifying space-time dynamics of flood event types
+37455,Slowflow fingerprints of urban hydrology
+18044,"The baseflow and storm flow hydrology of a precambrian shield headwater
+"
+9102,"Flash flooding in small urban watersheds: Storm event hydrologic
+"
+12603,Impact of prescribed burning on blanket peat hydrology
+9414,"EFFECTS OF SUBBASIN SIZE ON TOPOGRAPHIC CHARACTERISTICS AND SIMULATED
+"
+10857,"EFFECTS OF SUBBASIN SIZE ON TOPOGRAPHIC CHARACTERISTICS AND SIMULATED
+"
+18075,"Effect of spatial and temporal variability in rainfall and watershed
+"
