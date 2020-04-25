@@ -19,4 +19,4 @@ source /home/gsnearing/.bashrc
 conda activate nlp
 
 # run code
-python3 1_optimal_topics.py
+python3 2_run_lda.py

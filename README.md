@@ -2,15 +2,16 @@
 
 --- Initial Setup --------------------
 
-1) Need to create an environment YAML file --> Instructions here for the user to source the environment file.
+1) Change the prefix in the environment.yml file to point to your conda environemnt folder on your local machine.
+2) Create the conda environment: `conda env create -f environment.yml` 
 
-2) Download the nltk stopwords file from <https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/stopwords.zip> and put it in <~/anaconda3/envs/nlp/nltk_data/corpora> or in one of the other paths that nltk checks.
+3) Download the nltk stopwords file from <https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/stopwords.zip> and put it in <~/anaconda3/envs/nlp/nltk_data/corpora> or in one of the other paths that nltk checks.
 
-3) Download spacy data as:
-  >> python -m spacy download en
+4) Download spacy data as: `python -m spacy download en`
 
 --- Run the Training Procedure -------
-0_data_preprocessing
+
+0_data_preprocessing --- Cleans and prepares the corpus. This produces four output files in the <data> directory: (i) raw_corpus.pkl is the pandas dataframe containing the whole abstract corpus, (ii) data_lemmatized.pkl is the lemmatized data, (iii) cleaned_corpus.pkl is ..., and (iv) 
 
 1_optimal_topics
 
