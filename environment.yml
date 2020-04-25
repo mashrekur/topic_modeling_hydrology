@@ -1,7 +1,7 @@
 name: nlp
 channels:
-  - intel
   - pyviz
+  - intel
   - conda-forge
   - defaults
 dependencies:
@@ -40,7 +40,7 @@ dependencies:
   - gmp=6.1.2=h6c8ec71_1
   - gst-plugins-base=1.14.0=hbbd80ab_1
   - gstreamer=1.14.0=hb453b48_1
-  - holoviews=1.12.7=py_0
+  - holoviews=1.13.2=py_0
   - icu=58.2=h9c2bf20_1
   - idna=2.9=py_1
   - importlib_metadata=1.5.0=py37_0
@@ -94,7 +94,7 @@ dependencies:
   - numpy=1.18.1=py37h4f9e942_0
   - numpy-base=1.18.1=py37hde5b4d6_1
   - olefile=0.46=py_0
-  - openssl=1.1.1f=h7b6447c_0
+  - openssl=1.1.1g=h7b6447c_0
   - packaging=20.3=py_0
   - pandas=1.0.2=py37h0573a6f_0
   - pandoc=2.2.3.2=0
@@ -168,5 +168,7 @@ dependencies:
   - zeromq=4.3.1=he6710b0_3
   - zipp=2.2.0=py_0
   - zlib=1.2.11=h7b6447c_3
+  - pip:
+    - en-core-web-sm==2.0.0
 prefix: /home/gsnearing/anaconda3/envs/nlp
 
