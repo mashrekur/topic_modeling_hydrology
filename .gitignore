@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 figures/*.png
+investigate_topics/*.csv
 *.pkl
 **/*.pkl
 trained_models/trained_*.*
