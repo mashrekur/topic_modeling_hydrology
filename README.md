@@ -19,13 +19,14 @@
 
 1_optimal_topics.py --- Runs a loop to train an LDA model over variable number of topics to find the best number of topics to use for this corpus. Can be run using the slurm script ` 
 
-2_run_LDA 
+2_run_LDA --- This is a larger run (more passes and smaller chunk size) for the chosen number of topics for final analysis.Also created the topic distribution matrix for this run. 
 
-(The last notebook does not need to be run, but if you skip this step then it is necessary to change the load statements throught the subsequent scripts.) 
 
 --- Figures & Analysis ----------------
 
-
+3_temporal_topics --- Creates plots for analysis of relative temporal topic trends
+4_topic_correlations --- Creates plots for analysis of topic relationships
+5_journal_correlations --- Creates plots for analysis of journal relationships
 
 
 
