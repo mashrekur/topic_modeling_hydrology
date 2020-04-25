@@ -24,9 +24,10 @@
 
 --- Figures & Analysis ----------------
 
-3_temporal_topics --- Creates plots for analysis of relative temporal topic trends
-4_topic_correlations --- Creates plots for analysis of topic relationships
-5_journal_correlations --- Creates plots for analysis of journal relationships
+3_subjective_topic_analysis --- Tools and workspace to help understand and name topics 
+4_temporal_topics --- Creates plots for analysis of relative temporal topic trends
+5_topic_correlations --- Creates plots for analysis of topic relationships
+6_journal_correlations --- Creates plots for analysis of journal relationships
 
 
 
