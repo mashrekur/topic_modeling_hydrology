@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
+figures/*.png
 *.pkl
 **/*.pkl
 trained_models/trained_*.*
