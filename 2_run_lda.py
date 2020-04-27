@@ -5,8 +5,11 @@ import numpy as np
 from tqdm.notebook import tqdm
 from gensim.models.ldamulticore import LdaMulticore
 
+# Choose the number of topics
+nTopics = 28
+
 # enable logging
-logging.basicConfig(filename='log_files/gensim_prespecified_topics.log',
+logging.basicConfig(filename=f'log_files/gensim_prespecified_topics_{nTopics}.log',
                     format="%(asctime)s:%(levelname)s:%(message)s",
                     level=logging.INFO)
 
@@ -15,9 +18,6 @@ with open('data/cleaned_corpus.pkl', 'rb') as f:
     corpus = pkl.load(f)
 with open("data/id2word.pkl", 'rb') as f:
     id2word= pkl.load(f)
-
-# Choose the number of topics
-nTopics = 30
 
 # Train the LDA model with a prespecified number of topics
 lda_model =                   LdaMulticore(corpus=corpus,

@@ -7,7 +7,7 @@ from gensim.models.ldamulticore import LdaMulticore
 from gensim.models import CoherenceModel
 
 # Switch for running new experiemnts vs. loading old ones
-NEW_EXPERIMENTS = False
+NEW_EXPERIMENTS = True
 
 # load cleaned corpus
 with open('data/data_lemmatized.pkl', 'rb') as f:
@@ -18,10 +18,13 @@ with open("data/id2word.pkl", 'rb') as f:
     id2word= pkl.load(f)
 
 # parameters of topic size search
-max_topics = 150
-min_topics = 2
-max_num_topics = 50
-try_ntopics = np.unique(np.logspace(np.log10(min_topics), np.log10(max_topics+1), max_num_topics).astype(int))
+#max_topics = 40
+#min_topics = 5
+#max_num_topics = 500
+#try_ntopics = np.unique(np.logspace(np.log10(min_topics), np.log10(max_topics+1), max_num_topics).astype(int))
+#num_ntopics = len(try_ntopics)
+
+try_ntopics = np.array(list(range(4,42,2)))
 num_ntopics = len(try_ntopics)
 
 # save the list of numbers of topics to try
@@ -45,8 +48,8 @@ if NEW_EXPERIMENTS:
                                                id2word=id2word,
                                                num_topics=topics, 
                                                random_state=100,
-                                               chunksize=2000,
-                                               passes=500,
+                                               chunksize=200,
+                                               passes=2000,
     #                                            iterations=5000,
     #                                            minimum_probability=0,
                                                per_word_topics=True)

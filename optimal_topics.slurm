@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#SBATCH --job-name=lda_run                            # Job name
+#SBATCH --job-name=opt_top                            # Job name
 #SBATCH --ntasks=40                                   # Number of CPUs
 #SBATCH --time=72:00:00                               # Time limit hrs:min:sec
-#SBATCH --output=log_files/lda_run_slurm.log          # Standard output and error log
+#SBATCH --output=log_files/optimal_topics_slurm.log   # Standard output and error log
 #SBATCH --exclude=gpu01                               # Don't hog the GPU node
 
 
@@ -11,7 +11,7 @@
 ulimit -s unlimited
 
 # location
-cd /home/gsnearing/projects/topic_modeling_hydrology 
+cd /home/gsnearing/topic_modeling_hydrology 
 pwd
 
 # load conda environment

@@ -11,7 +11,7 @@
 ulimit -s unlimited
 
 # location
-cd /home/gsnearing/projects/topic_modeling_hydrology 
+cd /home/gsnearing/topic_modeling_hydrology 
 pwd
 
 # load conda environment
