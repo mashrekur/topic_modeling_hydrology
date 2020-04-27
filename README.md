@@ -9,6 +9,8 @@
 
 4) Download spacy data as: `python -m spacy download en`
 
+5) You might have to update holoviews `conda update holoviews`
+
 --- Run the Training Procedure -------
 
 0_data_preprocessing.ipynb --- Cleans and prepares the corpus. This produces four output files in the <data> directory: 
