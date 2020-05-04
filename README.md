@@ -23,6 +23,7 @@
 
 2_run_LDA --- This is a larger run (more passes and smaller chunk size) for the chosen number of topics for final analysis.Also created the topic distribution matrix for this run. 
 
+Note: The <2_run_LDA> script will extract teh per-paper topic distributions and store this as a numpy array in the <data> directory. You can also use the <X_extract_topic_distributions.ipynb> notebook to do this manually. It takes a few minutes per trained model.
 
 --- Figures & Analysis ----------------
 
