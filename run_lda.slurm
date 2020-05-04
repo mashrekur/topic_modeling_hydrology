@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=lda_run                            # Job name
+#SBATCH --job-name=lda                                # Job name
 #SBATCH --ntasks=40                                   # Number of CPUs
 #SBATCH --time=72:00:00                               # Time limit hrs:min:sec
 #SBATCH --output=log_files/lda_run_slurm.log          # Standard output and error log
@@ -19,4 +19,4 @@ source /home/gsnearing/.bashrc
 conda activate nlp
 
 # run code
-python3 2_run_lda.py
+python3 2_run_lda.py --num-topics ${1}
