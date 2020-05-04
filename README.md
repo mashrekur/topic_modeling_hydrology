@@ -30,6 +30,7 @@
 4_temporal_topics --- Creates plots for analysis of relative temporal topic trends
 5_topic_correlations --- Creates plots for analysis of topic relationships
 6_journal_correlations --- Creates plots for analysis of journal relationships
+7_journal_correlations --- Creates plots for analysis of how topics evolve as the number of topics increases 
 
 
 
