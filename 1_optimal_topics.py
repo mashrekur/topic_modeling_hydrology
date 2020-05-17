@@ -7,7 +7,7 @@ from gensim.models.ldamulticore import LdaMulticore
 from gensim.models import CoherenceModel
 
 # Switch for running new experiemnts vs. loading old ones
-NEW_EXPERIMENTS = True
+NEW_EXPERIMENTS = False
 
 # load cleaned corpus
 with open('data/data_lemmatized.pkl', 'rb') as f:
@@ -105,7 +105,7 @@ ax2.set_ylabel('Coherence', fontsize=14)
 ax.set_title('Finding the Optimal Number of Topics', fontsize=20)
 
 # legend
-ax.legend(pltp+pltc, ['Perplexity', 'Coherence'], fontsize=14)
+ax.legend(pltp+pltc, ['Perplexity', 'Coherence'], fontsize=14, loc='best')
 
 # aesthetics
 ax.grid()
