@@ -24,7 +24,7 @@ with open("data/id2word.pkl", 'rb') as f:
 #try_ntopics = np.unique(np.logspace(np.log10(min_topics), np.log10(max_topics+1), max_num_topics).astype(int))
 #num_ntopics = len(try_ntopics)
 
-try_ntopics = np.array(list(range(4,42,2)))
+try_ntopics = np.array(list(range(2,42,2)))
 num_ntopics = len(try_ntopics)
 
 # save the list of numbers of topics to try
