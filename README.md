@@ -1,5 +1,5 @@
 # topic_modeling_hydrology
-DOI: <a href="https://zenodo.org/badge/latestdoi/254929556"><img src="https://zenodo.org/badge/254929556.svg" alt="DOI"></a>
+<a href="https://zenodo.org/badge/latestdoi/254929556"><img src="https://zenodo.org/badge/254929556.svg" alt="DOI"></a>
 
 --- Initial Setup --------------------
 
