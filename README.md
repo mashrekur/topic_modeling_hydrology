@@ -1,4 +1,5 @@
 # topic_modeling_hydrology
+DOI: https://zenodo.org/badge/254929556.svg
 
 --- Initial Setup --------------------
 
