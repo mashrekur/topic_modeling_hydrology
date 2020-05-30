@@ -1,4 +1,4 @@
-# topic_modeling_hydrology
+#dynamic_topic_modeling_hydrology
 
 --- Initial Setup --------------------
 
