@@ -1,6 +1,6 @@
 hydro_mind
 
-
+Force directed graph visualization
 --- Initial Setup --------------------
 
 1) Change the prefix in the environment.yml file to point to your conda environemnt folder on your local machine.
