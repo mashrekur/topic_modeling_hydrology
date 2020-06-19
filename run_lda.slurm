@@ -11,12 +11,12 @@
 ulimit -s unlimited
 
 # location
-cd /home/gsnearing/topic_modeling_hydrology 
+/home/mashrekur/nlp_abstracts/topic_modeling_hydrology
 pwd
 
 # load conda environment
-source /home/gsnearing/.bashrc
+source /home/mashrekur/.bashrc
 conda activate nlp
 
 # run code
-python3 2_run_lda.py --num-topics ${1}
+python3 2_run_lda.py 

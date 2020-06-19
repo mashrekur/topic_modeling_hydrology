@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[ ]:
 
 
 import numpy as np
@@ -11,13 +11,13 @@ from gensim.models import LdaModel
 import json
 
 
-# In[2]:
+# In[ ]:
 
 
 nTopics = 25
 
 
-# In[3]:
+# In[ ]:
 
 
 # Load model
@@ -34,13 +34,13 @@ with open('data/raw_corpus.pkl', 'rb') as f:
     corpus_df = pkl.load(f)
 
 
-# In[4]:
+# In[ ]:
 
 
 topic_distributions.shape
 
 
-# In[5]:
+# In[ ]:
 
 
 # Define topic names
@@ -73,7 +73,7 @@ topic_names = [
 ]
 
 
-# In[6]:
+# In[ ]:
 
 
 # Define colors to associate with each topic
@@ -112,7 +112,7 @@ for i, color in enumerate(custom_colors.values()):
     colorlist[i] = (colorlist[i][0] / 256, colorlist[i][1] / 256, colorlist[i][2] / 256)
 
 
-# In[7]:
+# In[ ]:
 
 
 #calculate JSD for all pairs of papers
@@ -127,7 +127,13 @@ def jensen_shannon_distance(paper1,paper2):
     return JSD
 
 
-# In[9]:
+# In[ ]:
+
+
+# jensen_shannon_distance(0.12, 0.74)
+
+
+# In[ ]:
 
 
 #initiate individual lists for nodes and links
@@ -142,12 +148,14 @@ for p1, paper1 in enumerate(corpus_df["Title"]):
         if p1 == p2:
             dist = 0
         else:
-            dist = 1/jensen_shannon_distance(topic_distributions[p1], topic_distributions[p2])
-        link = {"source": paper1, "target": paper2, "value": dist}
+            #round to 2 decimal places and multiply by 10
+            dist = int(round(1/jensen_shannon_distance(topic_distributions[p1], topic_distributions[p2]), 2)*10)
+        link = {"source": p1, "target": p2, "value": dist}
+        print(link)
         link_list.append(link)
 
 
-# In[17]:
+# In[ ]:
 
 
 #initiate json file
@@ -169,19 +177,19 @@ class NpEncoder(json.JSONEncoder):
 json_dump = json.dumps(json_prep, indent=1, sort_keys=True, cls=NpEncoder)
 
 
-# In[22]:
+# In[ ]:
 
 
 #pd.DataFrame(json_prep['nodes']).head()
 
 
-# In[23]:
+# In[ ]:
 
 
 # pd.DataFrame(json_prep['links']).head()
 
 
-# In[24]:
+# In[ ]:
 
 
 #save output
