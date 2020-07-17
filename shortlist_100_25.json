@@ -1,0 +1,676 @@
+{
+ "links": [
+  {
+   "source": 0,
+   "target": 4,
+   "value": 40
+  },
+  {
+   "source": 0,
+   "target": 38,
+   "value": 27
+  },
+  {
+   "source": 1,
+   "target": 12,
+   "value": 27
+  },
+  {
+   "source": 1,
+   "target": 19,
+   "value": 27
+  },
+  {
+   "source": 1,
+   "target": 27,
+   "value": 36
+  },
+  {
+   "source": 1,
+   "target": 58,
+   "value": 29
+  },
+  {
+   "source": 3,
+   "target": 52,
+   "value": 25
+  },
+  {
+   "source": 4,
+   "target": 0,
+   "value": 40
+  },
+  {
+   "source": 4,
+   "target": 38,
+   "value": 32
+  },
+  {
+   "source": 4,
+   "target": 51,
+   "value": 27
+  },
+  {
+   "source": 5,
+   "target": 94,
+   "value": 28
+  },
+  {
+   "source": 9,
+   "target": 42,
+   "value": 25
+  },
+  {
+   "source": 9,
+   "target": 59,
+   "value": 25
+  },
+  {
+   "source": 12,
+   "target": 1,
+   "value": 27
+  },
+  {
+   "source": 12,
+   "target": 19,
+   "value": 27
+  },
+  {
+   "source": 12,
+   "target": 41,
+   "value": 28
+  },
+  {
+   "source": 12,
+   "target": 74,
+   "value": 29
+  },
+  {
+   "source": 13,
+   "target": 35,
+   "value": 25
+  },
+  {
+   "source": 14,
+   "target": 59,
+   "value": 26
+  },
+  {
+   "source": 15,
+   "target": 21,
+   "value": 25
+  },
+  {
+   "source": 19,
+   "target": 1,
+   "value": 27
+  },
+  {
+   "source": 19,
+   "target": 12,
+   "value": 27
+  },
+  {
+   "source": 19,
+   "target": 74,
+   "value": 30
+  },
+  {
+   "source": 21,
+   "target": 15,
+   "value": 25
+  },
+  {
+   "source": 27,
+   "target": 1,
+   "value": 36
+  },
+  {
+   "source": 27,
+   "target": 58,
+   "value": 25
+  },
+  {
+   "source": 29,
+   "target": 47,
+   "value": 26
+  },
+  {
+   "source": 30,
+   "target": 42,
+   "value": 31
+  },
+  {
+   "source": 35,
+   "target": 13,
+   "value": 25
+  },
+  {
+   "source": 35,
+   "target": 54,
+   "value": 31
+  },
+  {
+   "source": 35,
+   "target": 55,
+   "value": 31
+  },
+  {
+   "source": 38,
+   "target": 0,
+   "value": 27
+  },
+  {
+   "source": 38,
+   "target": 4,
+   "value": 32
+  },
+  {
+   "source": 38,
+   "target": 51,
+   "value": 27
+  },
+  {
+   "source": 41,
+   "target": 12,
+   "value": 28
+  },
+  {
+   "source": 42,
+   "target": 9,
+   "value": 25
+  },
+  {
+   "source": 42,
+   "target": 30,
+   "value": 31
+  },
+  {
+   "source": 42,
+   "target": 57,
+   "value": 25
+  },
+  {
+   "source": 47,
+   "target": 29,
+   "value": 26
+  },
+  {
+   "source": 49,
+   "target": 50,
+   "value": 27
+  },
+  {
+   "source": 50,
+   "target": 49,
+   "value": 27
+  },
+  {
+   "source": 51,
+   "target": 4,
+   "value": 27
+  },
+  {
+   "source": 51,
+   "target": 38,
+   "value": 27
+  },
+  {
+   "source": 52,
+   "target": 3,
+   "value": 25
+  },
+  {
+   "source": 54,
+   "target": 35,
+   "value": 31
+  },
+  {
+   "source": 55,
+   "target": 35,
+   "value": 31
+  },
+  {
+   "source": 57,
+   "target": 42,
+   "value": 25
+  },
+  {
+   "source": 58,
+   "target": 1,
+   "value": 29
+  },
+  {
+   "source": 58,
+   "target": 27,
+   "value": 25
+  },
+  {
+   "source": 59,
+   "target": 9,
+   "value": 25
+  },
+  {
+   "source": 59,
+   "target": 14,
+   "value": 26
+  },
+  {
+   "source": 74,
+   "target": 12,
+   "value": 29
+  },
+  {
+   "source": 74,
+   "target": 19,
+   "value": 30
+  },
+  {
+   "source": 94,
+   "target": 5,
+   "value": 28
+  }
+ ],
+ "nodes": [
+  {
+   "group": 4,
+   "name": "Development and evaluation of a stochastic daily rainfall model with\n"
+  },
+  {
+   "group": 6,
+   "name": "Evaluation of GPM IMERG Early, Late, and Final rainfall estimates using\n"
+  },
+  {
+   "group": 16,
+   "name": "Water movement through plant roots - exact solutions of the water flow\n"
+  },
+  {
+   "group": 15,
+   "name": "Spatiotemporal response of the water cycle to land use conversions in a\n"
+  },
+  {
+   "group": 4,
+   "name": "Precipitation extremes on multiple timescales - Bartlett-Lewis\n"
+  },
+  {
+   "group": 6,
+   "name": "Monitoring small reservoirs' storage with satellite remote sensing in\n"
+  },
+  {
+   "group": 15,
+   "name": "Does nonstationarity in rainfall require nonstationary\n"
+  },
+  {
+   "group": 10,
+   "name": "Prediction of storm transfers and annual loads with data-based\n"
+  },
+  {
+   "group": 3,
+   "name": "Non-destructive estimates of soil carbonic anhydrase activity and\n"
+  },
+  {
+   "group": 23,
+   "name": "Development of a monthly to seasonal forecast framework tailored to\n"
+  },
+  {
+   "group": 0,
+   "name": "The atmospheric branch of the hydrological cycle over the Indus, Ganges,\n"
+  },
+  {
+   "group": 2,
+   "name": "Parameter sensitivity analysis of a 1-D cold region lake model for\n"
+  },
+  {
+   "group": 6,
+   "name": "Comparing soil moisture anomalies from multiple independent sources over\n"
+  },
+  {
+   "group": 15,
+   "name": "Modeling the potential impacts of climate change on the water table\n"
+  },
+  {
+   "group": 0,
+   "name": "The 2010-2015 megadrought in central Chile: impacts on regional\n"
+  },
+  {
+   "group": 8,
+   "name": "A coupled modeling framework for sustainable watershed management in\n"
+  },
+  {
+   "group": 18,
+   "name": "Response of water temperatures and stratification to changing climate in\n"
+  },
+  {
+   "group": 2,
+   "name": "Moment-based metrics for global sensitivity analysis of hydrological\n"
+  },
+  {
+   "group": 7,
+   "name": "Calibration of a parsimonious distributed ecohydrological daily model in\n"
+  },
+  {
+   "group": 6,
+   "name": "Global-scale evaluation of 22 precipitation datasets using gauge\n"
+  },
+  {
+   "group": 11,
+   "name": "The potamochemical symphony: new progress in the high-frequency\n"
+  },
+  {
+   "group": 8,
+   "name": "Conserving the Ogallala Aquifer in southwestern Kansas: from the wells\n"
+  },
+  {
+   "group": 1,
+   "name": "A pore-size classification for peat bogs derived from unsaturated\n"
+  },
+  {
+   "group": 6,
+   "name": "Performance of the METRIC model in estimating evapotranspiration fluxes\n"
+  },
+  {
+   "group": 3,
+   "name": "Multiscale soil moisture estimates using static and roving cosmic-ray\n"
+  },
+  {
+   "group": 2,
+   "name": "Multiple-point statistical simulation for hydrogeological models: 3-D\n"
+  },
+  {
+   "group": 24,
+   "name": "Aquifer configuration and geostructural links control the groundwater\n"
+  },
+  {
+   "group": 6,
+   "name": "Does the GPM mission improve the systematic error component in satellite\n"
+  },
+  {
+   "group": 2,
+   "name": "On the value of water quality data and informative flow states in karst\n"
+  },
+  {
+   "group": 7,
+   "name": "Spatial pattern evaluation of a calibrated national hydrological model -\n"
+  },
+  {
+   "group": 23,
+   "name": "Assessment of an ensemble seasonal streamflow forecasting system for\n"
+  },
+  {
+   "group": 10,
+   "name": "Hydrogeological controls on spatial patterns of groundwater discharge in\n"
+  },
+  {
+   "group": 13,
+   "name": "The challenge of forecasting impacts of flash floods: test of a\n"
+  },
+  {
+   "group": 24,
+   "name": "A multi-tracer approach to constraining artesian groundwater discharge\n"
+  },
+  {
+   "group": 6,
+   "name": "SMOS brightness temperature assimilation into the Community Land Model"
+  },
+  {
+   "group": 15,
+   "name": "Global change in streamflow extremes under climate change over the 21st\n"
+  },
+  {
+   "group": 1,
+   "name": "Impacts of changes in groundwater recharge on the isotopic composition\n"
+  },
+  {
+   "group": 10,
+   "name": "A sprinkling experiment to quantify celerity-velocity differences at the\n"
+  },
+  {
+   "group": 4,
+   "name": "Simple scaling of extreme precipitation in North America"
+  },
+  {
+   "group": 10,
+   "name": "Stream flow simulation and verification in ungauged zones by coupling\n"
+  },
+  {
+   "group": 13,
+   "name": "The potential of historical hydrology in Switzerland"
+  },
+  {
+   "group": 6,
+   "name": "Evaluation of multiple forcing data sets for precipitation and shortwave\n"
+  },
+  {
+   "group": 23,
+   "name": "Verification of ECMWF System 4 for seasonal hydrological forecasting in\n"
+  },
+  {
+   "group": 21,
+   "name": "Importance of considering riparian vegetation requirements for the\n"
+  },
+  {
+   "group": 2,
+   "name": "New insights into the differences between the dual node approach and the\n"
+  },
+  {
+   "group": 11,
+   "name": "Impact of snow deposition on major and trace element concentrations and\n"
+  },
+  {
+   "group": 10,
+   "name": "Experimental determination of the flood wave transformation and the\n"
+  },
+  {
+   "group": 6,
+   "name": "Effects of high spatial and temporal resolution Earth observations on\n"
+  },
+  {
+   "group": 24,
+   "name": "Hydrogeological effects of dredging navigable canals through lagoon\n"
+  },
+  {
+   "group": 7,
+   "name": "A comparative assessment of rainfall-runoff modelling against regional\n"
+  },
+  {
+   "group": 2,
+   "name": "Identifying the connective strength between model parameters and\n"
+  },
+  {
+   "group": 4,
+   "name": "Analysis and modelling of a 9.3 kyr palaeoflood record: correlations,\n"
+  },
+  {
+   "group": 15,
+   "name": "Hydrological impacts of global land cover change and human water use"
+  },
+  {
+   "group": 8,
+   "name": "Assessment of integrated watershed health based on the natural\n"
+  },
+  {
+   "group": 15,
+   "name": "Future shift of the relative roles of precipitation and temperature in\n"
+  },
+  {
+   "group": 15,
+   "name": "Evaluating climate change impacts on streamflow variability based on a\n"
+  },
+  {
+   "group": 19,
+   "name": "Liquid water infiltration into a layered snowpack: evaluation of a 3-D\n"
+  },
+  {
+   "group": 23,
+   "name": "Technical note: Combining quantile forecasts and predictive\n"
+  },
+  {
+   "group": 23,
+   "name": "Impact of multiple radar reflectivity data assimilation on the numerical\n"
+  },
+  {
+   "group": 0,
+   "name": "Understanding and seasonal forecasting of hydrological drought in the\n"
+  },
+  {
+   "group": 7,
+   "name": "Streamflow characteristics from modeled runoff time series importance of\n"
+  },
+  {
+   "group": 0,
+   "name": "Impact of ENSO regimes on developing- and decaying-phase precipitation\n"
+  },
+  {
+   "group": 21,
+   "name": "Forest impacts on snow accumulation and ablation across an elevation\n"
+  },
+  {
+   "group": 9,
+   "name": "Field-scale water balance closure in seasonally frozen conditions"
+  },
+  {
+   "group": 6,
+   "name": "Regional frequency analysis of extreme rainfall in Belgium based on\n"
+  },
+  {
+   "group": 1,
+   "name": "Transfer of environmental signals from the surface to the underground at\n"
+  },
+  {
+   "group": 2,
+   "name": "Inferring soil salinity in a drip irrigation system from\n"
+  },
+  {
+   "group": 13,
+   "name": "Model simulations of potential contribution of the proposed Huangpu Gate\n"
+  },
+  {
+   "group": 2,
+   "name": "Consistency assessment of rating curve data in various locations using\n"
+  },
+  {
+   "group": 17,
+   "name": "The CAMELS data set: catchment attributes and meteorology for\n"
+  },
+  {
+   "group": 23,
+   "name": "Performance of ensemble streamflow forecasts under varied\n"
+  },
+  {
+   "group": 6,
+   "name": "Measuring precipitation with a geolysimeter"
+  },
+  {
+   "group": 11,
+   "name": "Pesticide fate on catchment scale: conceptual modelling of stream CSIA\n"
+  },
+  {
+   "group": 10,
+   "name": "Impacts of a capillary barrier on infiltration and subsurface stormflow\n"
+  },
+  {
+   "group": 6,
+   "name": "SMOS near-real-time soil moisture product: processor overview and first\n"
+  },
+  {
+   "group": 15,
+   "name": "Analysis of streamflow response to land use and land cover changes using\n"
+  },
+  {
+   "group": 6,
+   "name": "Impacts of spatial resolution and representation of flow connectivity on\n"
+  },
+  {
+   "group": 5,
+   "name": "Convective rainfall in a dry climate: relations with synoptic systems\n"
+  },
+  {
+   "group": 9,
+   "name": "Snow cover dynamics in Andean watersheds of Chile (32.0-39.5 degrees S)\n"
+  },
+  {
+   "group": 1,
+   "name": "A systematic examination of the relationships between CDOM and DOC in\n"
+  },
+  {
+   "group": 15,
+   "name": "Human amplified changes in precipitation-runoff patterns in large river\n"
+  },
+  {
+   "group": 1,
+   "name": "Using isotopes to constrain water flux and age estimates in\n"
+  },
+  {
+   "group": 0,
+   "name": "Effects of different reference periods on drought index (SPEI)\n"
+  },
+  {
+   "group": 0,
+   "name": "Is annual recharge coefficient a valid concept in arid and semi-arid\n"
+  },
+  {
+   "group": 2,
+   "name": "Improving calibration and validation of cosmic-ray neutron sensors in\n"
+  },
+  {
+   "group": 17,
+   "name": "Identifying, characterizing and predicting spatial patterns of\n"
+  },
+  {
+   "group": 3,
+   "name": "State and parameter estimation of two land surface models using the\n"
+  },
+  {
+   "group": 16,
+   "name": "Consistent initial conditions for the Saint-Venant equations in river\n"
+  },
+  {
+   "group": 1,
+   "name": "Rainwater propagation through snowpack during rain-on-snow sprinkling\n"
+  },
+  {
+   "group": 7,
+   "name": "A hydrological prediction system based on the SVS land-surface scheme:\n"
+  },
+  {
+   "group": 8,
+   "name": "Complex relationship between seasonal streamflow forecast skill and\n"
+  },
+  {
+   "group": 0,
+   "name": "Providing a non-deterministic representation of spatial variability of\n"
+  },
+  {
+   "group": 6,
+   "name": "Information content of stream level class data for hydrological model\n"
+  },
+  {
+   "group": 6,
+   "name": "Parameter optimisation for a better representation of drought by LSMs:\n"
+  },
+  {
+   "group": 6,
+   "name": "Improving SWAT model performance in the upper Blue Nile Basin using\n"
+  },
+  {
+   "group": 24,
+   "name": "Hydrological connectivity from glaciers to rivers in the Qinghai-Tibet\n"
+  },
+  {
+   "group": 11,
+   "name": "Hydrological controls on DOC: nitrate resource stoichiometry in a\n"
+  },
+  {
+   "group": 21,
+   "name": "Use of reflected GNSS SNR data to retrieve either soil moisture or\n"
+  },
+  {
+   "group": 8,
+   "name": "The predictability of reported drought events and impacts in the Ebro\n"
+  },
+  {
+   "group": 23,
+   "name": "Evaluation of model-based seasonal streamflow and water allocation\n"
+  }
+ ]
+}
