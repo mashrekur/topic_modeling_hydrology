@@ -71,7 +71,7 @@ with open("data/id2word_mallet.pkl", 'rb') as f:
     id2word= pkl.load(f)
 
 # Choose the number of topics
-nTopics = 40
+nTopics = 30
 
 # Train the LDA model with a prespecified number of topics
 lda_model =                   LdaMulticore(corpus=corpus,

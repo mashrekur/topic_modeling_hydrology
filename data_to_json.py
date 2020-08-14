@@ -202,45 +202,45 @@ with open('link_array.npy', 'wb') as f:
 # In[ ]:
 
 
-# #initiate json file
-# json_prep = {"links":link_list, "nodes":node_list}
-# # json_prep = {"links":link_list}
-# #json does not recognize NumPy data types; defining own encoder
-# class NpEncoder(json.JSONEncoder):
-#     def default(self, obj):
-#         if isinstance(obj, np.integer):
-#             return int(obj)
-#         elif isinstance(obj, np.floating):
-#             return float(obj)
-#         elif isinstance(obj, np.ndarray):
-#             return obj.tolist()
-#         else:
-#             return super(NpEncoder, self).default(obj)
+#initiate json file
+json_prep = {"links":link_list, "nodes":node_list}
+# json_prep = {"links":link_list}
+#json does not recognize NumPy data types; defining own encoder
+class NpEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        elif isinstance(obj, np.floating):
+            return float(obj)
+        elif isinstance(obj, np.ndarray):
+            return obj.tolist()
+        else:
+            return super(NpEncoder, self).default(obj)
 
-# #dumping the data into json file
-# json_dump = json.dumps(json_prep, indent=1, sort_keys=True, cls=NpEncoder)
-
-
-# In[ ]:
-
-
-#pd.DataFrame(json_prep['nodes']).head()
+#dumping the data into json file
+json_dump = json.dumps(json_prep, indent=1, sort_keys=True, cls=NpEncoder)
 
 
 # In[ ]:
 
 
-# pd.DataFrame(json_prep['links']).head()
+pd.DataFrame(json_prep['nodes']).head()
 
 
 # In[ ]:
 
 
-# #save output
-# filename_out = 'hiddenstories_full20.json'
-# json_out = open(filename_out,'w')
-# json_out.write(json_dump)
-# json_out.close()
+pd.DataFrame(json_prep['links']).head()
+
+
+# In[ ]:
+
+
+#save output
+filename_out = 'hiddenstories_full20.json'
+json_out = open(filename_out,'w')
+json_out.write(json_dump)
+json_out.close()
 
 
 # In[ ]:

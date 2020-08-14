@@ -45,7 +45,7 @@ print(np.asarray((uniqueyears, time_slices)).T)
 
 
 # Choose the number of topics
-nTopics = 40
+nTopics = 35
 
 
 # In[ ]:
@@ -58,7 +58,7 @@ lda_model =                   LdaSeqModel(corpus=corpus,
                                            num_topics=nTopics, 
                                            random_state=100,
                                            chunksize=100,
-                                           passes=3000)
+                                           passes=2000)
 
 
 # In[ ]:

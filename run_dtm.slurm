@@ -2,7 +2,7 @@
 
 #SBATCH --job-name=dtm                                # Job name
 #SBATCH --ntasks=40                                   # Number of CPUs
-#SBATCH --time=72:00:00                               # Time limit hrs:min:sec
+#SBATCH --time=10000:00:00                               # Time limit hrs:min:sec
 #SBATCH --output=log_files/dtm_run_slurm.log          # Standard output and error log
 #SBATCH --exclude=gpu01                               # Don't hog the GPU node
 
