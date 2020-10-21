@@ -10,11 +10,11 @@ from gensim.models import CoherenceModel
 NEW_EXPERIMENTS = True
 
 # load cleaned corpus
-with open('data/data_lemmatized.pkl', 'rb') as f:
+with open('data/data_lemmatized_broad.pkl', 'rb') as f:
     data_lemmatized = pkl.load(f)
-with open('data/cleaned_corpus.pkl', 'rb') as f:
+with open('data/cleaned_corpus_broad.pkl', 'rb') as f:
     corpus = pkl.load(f)
-with open("data/id2word.pkl", 'rb') as f:
+with open("data/id2word_broad.pkl", 'rb') as f:
     id2word= pkl.load(f)
 
 # parameters of topic size search
@@ -24,7 +24,7 @@ with open("data/id2word.pkl", 'rb') as f:
 #try_ntopics = np.unique(np.logspace(np.log10(min_topics), np.log10(max_topics+1), max_num_topics).astype(int))
 #num_ntopics = len(try_ntopics)
 
-try_ntopics = np.array(list(range(2,17,2)))
+try_ntopics = np.array(list(range(4,60,4)))
 num_ntopics = len(try_ntopics)
 
 # save the list of numbers of topics to try
@@ -62,7 +62,7 @@ if NEW_EXPERIMENTS:
         coherence[topics] = coherence_model_lda.get_coherence()
 
         #save results
-        lda_model.save(f"trained_models/trained_lda_model_search_logscale_{topics}")
+        lda_model.save(f"trained_models/trained_lda_model_search_broad_{topics}")
         with open("data/perplexity.pkl", 'wb') as f:
             pkl.dump(perplexity, f)
         with open("data/coherence.pkl", 'wb') as f:
@@ -111,5 +111,5 @@ ax.legend(pltp+pltc, ['Perplexity', 'Coherence'], fontsize=14, loc='best')
 ax.grid()
 
 # Save figure
-plt.savefig('figures/perplexity_coherence_logscale.png')
+plt.savefig('figures/perplexity_coherence_broad.png')
 
