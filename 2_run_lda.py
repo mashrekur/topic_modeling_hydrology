@@ -65,13 +65,13 @@ logging.basicConfig(filename='log_files/gensim_prespecified_topics.log',
                     level=logging.INFO)
 
 # load cleaned corpus
-with open('data/cleaned_corpus_mallet.pkl', 'rb') as f:
+with open('data/cleaned_corpus_broad.pkl', 'rb') as f:
     corpus = pkl.load(f)
-with open("data/id2word_mallet.pkl", 'rb') as f:
+with open("data/id2word_broad.pkl", 'rb') as f:
     id2word= pkl.load(f)
 
 # Choose the number of topics
-nTopics = 30
+nTopics = 50
 
 # Train the LDA model with a prespecified number of topics
 lda_model =                   LdaMulticore(corpus=corpus,
@@ -79,7 +79,7 @@ lda_model =                   LdaMulticore(corpus=corpus,
                                            num_topics=nTopics, 
                                            random_state=100,
                                            chunksize=100,
-                                           passes=5000,
+                                           passes=7000,
 #                                            iterations=10000,
 #                                            minimum_probability=0,
                                            per_word_topics=True)
@@ -98,4 +98,4 @@ for i in range(len(doc_lda)):
         hm[i, topic_pair[0]] = topic_pair[1]
 
 # Save topic distributions as numpy array
-np.save(f'data/topic_distributions_new_{lda_model.num_topics}', hm)
+np.save(f'data/topic_distributions_broad_{lda_model.num_topics}', hm)

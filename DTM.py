@@ -24,11 +24,11 @@ logging.basicConfig(filename='log_files/DTM_prespecified_topics.log',
 
 
 # load cleaned corpus
-with open('data/raw_corpus_dtm.pkl', 'rb') as f:
+with open('data/raw_corpus_broad_dtm.pkl', 'rb') as f:
     corpus_df = pkl.load(f)
-with open('data/cleaned_corpus_dtm.pkl', 'rb') as f:
+with open('data/cleaned_corpus_broad_dtm.pkl', 'rb') as f:
     corpus = pkl.load(f)
-with open("data/id2word_dtm.pkl", 'rb') as f:
+with open("data/id2word_broad_dtm.pkl", 'rb') as f:
     id2word= pkl.load(f)
 
 
@@ -45,7 +45,7 @@ print(np.asarray((uniqueyears, time_slices)).T)
 
 
 # Choose the number of topics
-nTopics = 35
+nTopics = 50
 
 
 # In[ ]:
@@ -58,14 +58,14 @@ lda_model =                   LdaSeqModel(corpus=corpus,
                                            num_topics=nTopics, 
                                            random_state=100,
                                            chunksize=100,
-                                           passes=2000)
+                                           passes=7000)
 
 
 # In[ ]:
 
 
 # Save the trained DTM
-lda_model.save(f"trained_models/trained_DTM_{lda_model.num_topics}")
+lda_model.save(f"trained_models/trained_DTM_broad_{lda_model.num_topics}")
 
 
 # In[ ]:
@@ -82,5 +82,5 @@ for i in range(len(doc_lda)):
 
 
 # Save topic distributions as numpy array
-np.save(f'data/topic_distributions_DTM_{lda_model.num_topics}', hm)
+np.save(f'data/topic_distributions_broad_DTM_{lda_model.num_topics}', hm)
 
