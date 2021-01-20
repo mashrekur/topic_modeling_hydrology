@@ -71,15 +71,15 @@ with open("data/id2word_broad.pkl", 'rb') as f:
     id2word= pkl.load(f)
 
 # Choose the number of topics
-nTopics = 50
+nTopics = 40
 
 # Train the LDA model with a prespecified number of topics
 lda_model =                   LdaMulticore(corpus=corpus,
                                            id2word=id2word,
                                            num_topics=nTopics, 
                                            random_state=100,
-                                           chunksize=100,
-                                           passes=7000,
+                                           chunksize=200,
+                                           passes=5000,
 #                                            iterations=10000,
 #                                            minimum_probability=0,
                                            per_word_topics=True)
