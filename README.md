@@ -16,8 +16,8 @@ Topic Modeling of Hydrology Literature
 
 --- Run the Training Procedure -------
 
-0_data_preprocessing.ipynb --- Cleans and prepares the corpus. This produces four output files in the <data> directory: 
-(i) raw_corpus.pkl is the pandas dataframe containing the whole abstract corpus 
+0_data_preprocessing_broad.ipynb --- Cleans and prepares the corpus. This produces four output files in the <data> directory: 
+(i) raw_corpus_broad_country.pkl is the pandas dataframe containing the whole abstract corpus 
 (ii) data_lemmatized.pkl is the lemmatized data 
 (iii) id2word.pkl is the word <-> id mapping
 (iv) cleaned_corpus.pkl is the term document frequency matrix
@@ -32,9 +32,10 @@ Note: The <2_run_LDA> script will extract teh per-paper topic distributions and 
 
 3_subjective_topic_analysis --- Tools and workspace to help understand and name topics 
 4_temporal_topics --- Creates plots for analysis of relative temporal topic trends
-5_topic_correlations --- Creates plots for analysis of topic relationships
-6_journal_correlations --- Creates plots for analysis of journal relationships
-7_journal_correlations --- Creates plots for analysis of how topics evolve as the number of topics increases 
+5_intertopict_correlations --- Creates plots for analysis of topic relationships
+6_journal_analysis --- Creates plots for analysis of journal relationships
+7_diversity_analysis --- Creates plots for analysis of per-article diversities for entire corpus
+8_diversity_analysis --- Creates plots for analysis of per-article diversities for individual journals, and also analysis of isolated topics
 
 
 

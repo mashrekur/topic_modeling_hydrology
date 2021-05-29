@@ -2,7 +2,7 @@
 
 #SBATCH --job-name=optimal_topics              # Job name
 #SBATCH --ntasks=40                    # Run on multiple CPUs
-#SBATCH --time=72:00:00               # Time limit hrs:min:sec
+#SBATCH --time=10000:00:00               # Time limit hrs:min:sec
 #SBATCH --output=log_files/optimal_topics_slurm.log          # Standard output and error log
 #SBATCH --exclude=gpu01               #Exclude the GPU
 
