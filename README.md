@@ -31,10 +31,15 @@ Note: The <2_run_LDA> script will extract teh per-paper topic distributions and 
 --- Figures & Analysis ----------------
 
 3_subjective_topic_analysis --- Tools and workspace to help understand and name topics 
+  
 4_temporal_topics --- Creates plots for analysis of relative temporal topic trends
+  
 5_intertopict_correlations --- Creates plots for analysis of topic relationships
+  
 6_journal_analysis --- Creates plots for analysis of journal relationships
+  
 7_diversity_analysis --- Creates plots for analysis of per-article diversities for entire corpus
+  
 8_diversity_analysis --- Creates plots for analysis of per-article diversities for individual journals, and also analysis of isolated topics
 
 
