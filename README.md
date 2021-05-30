@@ -34,7 +34,7 @@ Note: The <2_run_LDA> script will extract teh per-paper topic distributions and 
   
 4_temporal_topics --- Creates plots for analysis of relative temporal topic trends
   
-5_intertopict_correlations --- Creates plots for analysis of topic relationships
+5_intertopic_correlations --- Creates plots for analysis of topic relationships
   
 6_journal_analysis --- Creates plots for analysis of journal relationships
   
