@@ -1,4 +1,4 @@
-Interdisciplinarity in Hydrology
+Hydrology Topics Diversity
 
 
 <a href="https://zenodo.org/badge/latestdoi/254929556"><img src="https://zenodo.org/badge/254929556.svg" alt="DOI"></a>
@@ -38,9 +38,9 @@ Note: The <2_run_LDA> script will extract teh per-paper topic distributions and 
   
 6_journal_analysis --- Creates plots for analysis of journal relationships
   
-7_diversity_analysis --- Creates plots for analysis of per-article diversities for entire corpus
+7_diversity_analysis --- Creates plots for analysis of per-article diversities and effective number of topics for the entire corpus
   
-8_diversity_analysis --- Creates plots for analysis of per-article diversities for individual journals, and also analysis of isolated topics
+8_diversity_analysis --- Creates plots for analysis of per-article diversities for individual journals, and also correlation between diversity and topic distributions
 
 
 
